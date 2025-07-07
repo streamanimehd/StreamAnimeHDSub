@@ -1,0 +1,425 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Cyrillic,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:17.55,0:01:18.21,sign_generic,TITLECARD1,0,0,0,,{\b1\c&HEAFCFA&\3c&HB590F8&\an7\frz11.4\fs35\fade(200,1)\move(103.091,158.364,103,153.273)}Sometimes
+Dialogue: 0,0:01:18.21,0:01:18.96,sign_generic,TITLECARD2,0,0,0,,{\fnTimes New Roman\b1\bord0\c&H2E404D&\fs35\an8}in Russian
+Dialogue: 0,0:01:18.96,0:01:19.72,sign_generic,TITLECARD3,0,0,0,,{\fnTimes New Roman\b1\bord0\c&H2E404D&\fs35\an8}Hides Her
+Dialogue: 0,0:01:19.72,0:01:20.47,sign_generic,TITLECARD4,0,0,0,,{\fnTimes New Roman\b1\bord0\c&H2E404D&\fs35\an8\pos(319.273,59.455)}Feelings
+Dialogue: 0,0:01:20.47,0:01:22.55,sign_generic,TITLECARD,0,0,0,,{\fnTimes New Roman\fs25\b1\bord0\c&H2E404D&\an8}Alya {\fnArial\bord2\3c&H9A6BEE&\c&HFBF7FF&\fs}Sometimes {\fnTimes New Roman\b1\bord0\c&H2E404D&\fs25}Hides\NHer Feelings in Russian
+Dialogue: 0,0:01:30.94,0:01:35.86,sign_generic,EPTITLE,0,0,0,,{\fs14\frz6.763\c&HFBE2FF&\3c&H974BEF&\b1\fade(1,450)\pos(242.714,315.078)}Episode 3
+Dialogue: 0,0:01:31.11,0:01:35.86,sign_generic,EPTITLE,0,0,0,,{\bord1\shad1\an7\fs23\3c&H828081&\4c&H636162&\blur1\fade(400,450)\pos(301.585,280.559)}And So They Met
+Dialogue: 0,0:01:32.04,0:01:33.88,top,ALYA,0,0,0,,I'm back.
+Dialogue: 0,0:01:33.88,0:01:36.36,top,MASHA,0,0,0,,Welcome home, Alya-chan!
+Dialogue: 0,0:01:37.99,0:01:39.74,Default,MASHA,0,0,0,,Hug.
+Dialogue: 0,0:01:40.28,0:01:42.13,Default,ALYA,0,0,0,,I'm home, Masha.
+Dialogue: 0,0:01:42.13,0:01:46.00,Default,MASHA,0,0,0,,Come on! I told you to \Ncall me Onee-chan in Japan!
+Dialogue: 0,0:01:46.00,0:01:48.00,Default,ALYA,0,0,0,,No, not after all this time.
+Dialogue: 0,0:01:48.00,0:01:51.24,Default,MASHA,0,0,0,,Boo, you meanie!
+Dialogue: 0,0:01:54.52,0:01:56.70,Default,MASHA,0,0,0,,You seem kinda down.
+Dialogue: 0,0:01:56.70,0:01:58.12,Default,MASHA,0,0,0,,Did something happen?
+Dialogue: 0,0:01:58.97,0:02:01.01,Default,ALYA,0,0,0,,No? Not really.
+Dialogue: 0,0:02:01.42,0:02:04.52,Default,MASHA,0,0,0,,Lies. You can't deceive my eyes.
+Dialogue: 0,0:02:04.94,0:02:07.46,Default,MASHA,0,0,0,,Tell me, what happened?
+Dialogue: 0,0:02:07.46,0:02:10.14,Default,ALYA,0,0,0,,It's really not a big deal.
+Dialogue: 0,0:02:10.14,0:02:14.90,Default,ALYA,0,0,0,,I just met Kuze-kun \Nand his childhood friend. That's all.
+Dialogue: 0,0:02:15.16,0:02:16.78,Default,MASHA,0,0,0,,Ah, him.
+Dialogue: 0,0:02:16.78,0:02:17.63,Default,ALYA,0,0,0,,What?
+Dialogue: 0,0:02:17.63,0:02:23.37,Default,MASHA,0,0,0,,You just get really \Nworked up when it comes to him.
+Dialogue: 0,0:02:27.34,0:02:28.83,Default,MASHA,0,0,0,,I see.
+Dialogue: 0,0:02:29.47,0:02:33.79,Default,MASHA,0,0,0,,Finally, a boy who can move \Nyour heart has showed up, huh?
+Dialogue: 0,0:02:34.34,0:02:35.80,Default,ALYA,0,0,0,,What's that mean?
+Dialogue: 0,0:02:36.14,0:02:39.30,Default,MASHA,0,0,0,,You like this Kuze-kun, don't you?
+Dialogue: 0,0:02:39.91,0:02:42.93,Default,ALYA,0,0,0,,I don't know what gave you that silly idea,
+Dialogue: 0,0:02:42.93,0:02:45.44,Default,ALYA,0,0,0,,but he and I aren't like that.
+Dialogue: 0,0:02:45.88,0:02:47.64,Default,ALYA,0,0,0,,We are, uh...
+Dialogue: 0,0:02:48.74,0:02:51.06,Default,ALYA,0,0,0,,Right, we are friends.
+Dialogue: 0,0:02:51.06,0:02:54.86,Default,MASHA,0,0,0,,Oh, yeah? How did you become friends, though?
+Dialogue: 0,0:02:54.86,0:02:58.97,Default,MASHA,0,0,0,,I know you hate indifferent slackers.
+Dialogue: 0,0:03:00.58,0:03:02.26,Default,ALYA,0,0,0,,Well, yeah...
+Dialogue: 0,0:03:05.49,0:03:07.45,sign_generic,SIGN,0,0,0,,{\bord1.4\3c&H202423&\c&HE5F0EB&\pos(320,285.584)\fs25\fade(450,450)}6 Years Ago
+Dialogue: 0,0:03:07.75,0:03:09.71,sign_generic,SIGN,0,0,0,,{\bord1.4\3c&H202423&\c&HE5F0EB&\pos(320,285.584)\fs25\fade(450,1)}Vladivostok
+Dialogue: 0,0:03:10.54,0:03:12.21,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}Split up into groups
+Dialogue: 0,0:03:12.58,0:03:14.84,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}and write a report on local businesses.
+Dialogue: 0,0:03:15.71,0:03:17.21,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}The group with the best report
+Dialogue: 0,0:03:17.21,0:03:18.34,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}will receive a prize!
+Dialogue: 0,0:03:22.84,0:03:26.47,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}So, I'll handle the clothes boutique and the bakery.
+Dialogue: 0,0:03:26.97,0:03:31.10,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}Alya, you visit the florist and the butcher.
+Dialogue: 0,0:03:31.77,0:03:33.15,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}Okay, got it.
+Dialogue: 0,0:03:33.65,0:03:36.02,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&\i1}If I'm in it,
+Dialogue: 0,0:03:36.27,0:03:37.78,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&\i1}I'm in it to win.
+Dialogue: 0,0:03:41.15,0:03:42.03,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}Excuse me!
+Dialogue: 0,0:03:42.53,0:03:44.03,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}Hey, missy. On an errand?
+Dialogue: 0,0:03:44.41,0:03:46.16,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}No, this is schoolwork.
+Dialogue: 0,0:03:46.78,0:03:48.66,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}We have to look into local businesses
+Dialogue: 0,0:03:48.91,0:03:50.91,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}and find out about
+Dialogue: 0,0:03:51.29,0:03:53.42,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}what their work involves.
+Dialogue: 0,0:03:56.13,0:03:57.38,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}Oh, this is the place.
+Dialogue: 0,0:03:58.38,0:03:59.76,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}Excuse me!
+Dialogue: 0,0:04:01.13,0:04:02.51,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}The assignment?
+Dialogue: 0,0:04:03.01,0:04:05.89,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}Oh, sorry. Haven't started yet.
+Dialogue: 0,0:04:06.51,0:04:07.26,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}What?
+Dialogue: 0,0:04:07.89,0:04:09.39,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}But why?
+Dialogue: 0,0:04:09.64,0:04:14.27,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}Writing up the report takes time, so we need to hurry.
+Dialogue: 0,0:04:15.02,0:04:18.52,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}There's still a week left. We'll be fine.
+Dialogue: 0,0:04:18.90,0:04:20.78,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}No, we won't!
+Dialogue: 0,0:04:21.90,0:04:25.28,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}Besides, this is easy.
+Dialogue: 0,0:04:25.53,0:04:27.66,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}A clothes boutique sells clothes, a bakery sells bread.
+Dialogue: 0,0:04:27.78,0:04:29.16,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}Right?
+Dialogue: 0,0:04:31.50,0:04:33.91,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}Whoa, she's writing up whole essays!
+Dialogue: 0,0:04:35.21,0:04:37.79,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}You gotta chill out, girl.
+Dialogue: 0,0:04:38.17,0:04:40.92,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}Alya, will we have to recite all of this?
+Dialogue: 0,0:04:44.51,0:04:48.14,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}Why won't you take this seriously?
+Dialogue: 0,0:04:50.14,0:04:52.27,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}If you got such a problem with us, you can do this alone!
+Dialogue: 0,0:04:52.35,0:04:55.85,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}We won't win if we don't put in the effort!
+Dialogue: 0,0:04:56.02,0:04:57.52,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}H-Hey!
+Dialogue: 0,0:04:57.81,0:04:59.82,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&\fade(1,1200)}S-Stop! Knock it off!
+Dialogue: 0,0:05:09.95,0:05:11.83,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}For the group assignment,
+Dialogue: 0,0:05:12.20,0:05:13.58,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}the best report belongs to...
+Dialogue: 0,0:05:14.33,0:05:15.58,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}Group B!
+Dialogue: 0,0:05:15.71,0:05:16.58,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}Yeah! Hooray!
+Dialogue: 0,0:05:22.49,0:05:25.84,flashback italics,ALYA,0,0,0,,If only the others \Nhad taken it as seriously...
+Dialogue: 0,0:05:26.29,0:05:28.36,flashback italics,ALYA,0,0,0,,No, that's not it.
+Dialogue: 0,0:05:28.83,0:05:31.59,flashback italics,ALYA,0,0,0,,I was wrong to expect anything from them.
+Dialogue: 0,0:05:32.07,0:05:37.70,flashback italics,ALYA,0,0,0,,I feel like nobody is ever as driven as I am.
+Dialogue: 0,0:05:41.95,0:05:43.11,flashback italics,ALYA,0,0,0,,If that's the case,
+Dialogue: 0,0:05:43.94,0:05:47.30,flashback italics,ALYA,0,0,0,,then I'll just do everything all by myself!
+Dialogue: 0,0:06:02.21,0:06:03.30,flashback,GIRL3,0,0,0,,Hey, hey.
+Dialogue: 0,0:06:03.30,0:06:07.13,flashback,GIRL3,0,0,0,,Is it true you passed \Nthat crazy difficult transfer exam?
+Dialogue: 0,0:06:07.13,0:06:09.33,flashback,ALYA,0,0,0,,Y-Yeah, I guess I did.
+Dialogue: 0,0:06:09.33,0:06:11.66,flashback,BOY2,0,0,0,,Your Japanese is great, Kujo-san.
+Dialogue: 0,0:06:11.66,0:06:13.57,flashback,BOY2,0,0,0,,Have you lived in Japan before?
+Dialogue: 0,0:06:13.57,0:06:15.64,flashback,ALYA,0,0,0,,Yes, I lived here until five years ago.
+Dialogue: 0,0:06:17.39,0:06:19.65,flashback,GIRL3,0,0,0,,Talk to you later, Kujo-san!
+Dialogue: 0,0:06:24.08,0:06:26.41,flashback,ALYA,0,0,0,,He slept through that racket?
+Dialogue: 0,0:06:27.62,0:06:30.00,flashback,ALYA,0,0,0,,Hey, the warning bell's ringing.
+Dialogue: 0,0:06:32.74,0:06:36.79,flashback,MASACHIKA,0,0,0,,Oh, you the transfer student who did \Nthat speech at the opening ceremony?
+Dialogue: 0,0:06:37.19,0:06:38.58,flashback,ALYA,0,0,0,,Yes, that's me.
+Dialogue: 0,0:06:39.21,0:06:43.04,flashback,ALYA,0,0,0,,I'm Alisa Mikhailovna Kujo. Nice to meet you.
+Dialogue: 0,0:06:43.32,0:06:46.17,flashback,MASACHIKA,0,0,0,,Hi. I'm Kuze Masachika.
+Dialogue: 0,0:06:46.17,0:06:48.48,flashback,MASACHIKA,0,0,0,,Nice to meet you too...
+Dialogue: 0,0:06:50.06,0:06:50.78,flashback,MASACHIKA,0,0,0,,Oh?
+Dialogue: 0,0:06:50.78,0:06:53.33,flashback,MASACHIKA,0,0,0,,Heya, Hikaru. Didn't know \Nyou were in this class.
+Dialogue: 0,0:06:53.33,0:06:54.67,flashback,HIKARU,0,0,0,,I am.
+Dialogue: 0,0:06:54.67,0:06:56.67,flashback,HIKARU,0,0,0,,Takeshi's here too, by the way.
+Dialogue: 0,0:06:57.25,0:06:58.23,flashback,MASACHIKA,0,0,0,,So he is.
+Dialogue: 0,0:07:00.23,0:07:01.23,sign_generic,SIGN,0,0,0,,{\b1\bord3\fs25\c&H5C6263&\3c&HFFFFFF&\pos(314.143,129.143)}Science
+Dialogue: 0,0:07:02.11,0:07:04.23,flashback,MASACHIKA,0,0,0,,Crap, I forgot my textbook.
+Dialogue: 0,0:07:04.58,0:07:06.45,flashback,MASACHIKA,0,0,0,,Sorry. Hikaru, Show me yours.
+Dialogue: 0,0:07:06.45,0:07:07.48,flashback,HIKARU,0,0,0,,Sure.
+Dialogue: 0,0:07:07.48,0:07:07.86,sign_generic,SIGN,0,0,0,,{\b1\bord3\fs25\c&H5C6263&\3c&HFFFFFF&\pos(314.143,129.143)\fade(1,300)}Science
+Dialogue: 0,0:07:07.53,0:07:08.74,sign_generic,SIGN,0,0,0,,{\b1\bord3\fs25\c&H5C6263&\3c&HFFFFFF&\pos(314.143,129.143)\fade(400,1)}P.E.
+Dialogue: 0,0:07:12.74,0:07:14.42,flashback,GIRL3,0,0,0,,That was rough, huh?
+Dialogue: 0,0:07:14.42,0:07:15.32,flashback,GIRL2,0,0,0,,I know, right?
+Dialogue: 0,0:07:15.32,0:07:16.07,flashback italics,ALYA,0,0,0,,Wha...
+Dialogue: 0,0:07:16.74,0:07:18.12,sign_generic,SIGN,0,0,0,,{\b1\bord3\fs25\c&H5C6263&\3c&HFFFFFF&\pos(314.143,129.143)\fade(1,300)}P.E.
+Dialogue: 0,0:07:18.08,0:07:18.66,sign_generic,SIGN,0,0,0,,{\b1\bord3\fs25\c&H5C6263&\3c&HFFFFFF&\pos(314.143,129.143)\fade(200,1)}Math
+Dialogue: 0,0:07:21.58,0:07:25.80,flashback italics,ALYA,0,0,0,,I guess slackers are everywhere, \Neven in prestigious schools like this one.
+Dialogue: 0,0:07:34.43,0:07:36.43,sign_generic,SIGN,0,0,0,,{\bord0\fnComic Sans Ms\b1\fs25\pos(420.571,350)\frz347.9}School Festival starts in 14 days!\NHaunted House\NConfirmed!
+Dialogue: 0,0:07:35.10,0:07:37.14,flashback,TAKESHI,0,0,0,,Uh...
+Dialogue: 0,0:07:37.14,0:07:39.70,flashback,TAKESHI,0,0,0,,We're gonna need shutters to make the paths.
+Dialogue: 0,0:07:39.70,0:07:41.85,flashback,HIKARU,0,0,0,,How are we getting costumes for all the ghosts?
+Dialogue: 0,0:07:41.85,0:07:43.94,flashback,TAKESHI,0,0,0,,Wait, wait! One thing at a time!
+Dialogue: 0,0:07:44.21,0:07:47.46,flashback,BOYF,0,0,0,,Man, I had no idea it'd be so much work.
+Dialogue: 0,0:07:47.46,0:07:48.76,flashback,BOYD,0,0,0,,Same.
+Dialogue: 0,0:07:50.17,0:07:51.95,flashback,GIRL3,0,0,0,,Not going home yet, Kujo-san?
+Dialogue: 0,0:07:52.38,0:07:55.01,flashback,ALYA,0,0,0,,No, I'll work on this some more.
+Dialogue: 0,0:07:55.01,0:07:56.31,flashback,GIRL3,0,0,0,,Yeah?
+Dialogue: 0,0:07:56.31,0:07:57.27,flashback,GIRL3,0,0,0,,See you, then.
+Dialogue: 0,0:07:58.14,0:07:59.72,flashback,GIRL2,0,0,0,,Are we gonna make it?
+Dialogue: 0,0:07:59.72,0:08:02.33,flashback,GIRL3,0,0,0,,Who knows? But it's just \Na school festival, anyway.
+Dialogue: 0,0:08:02.83,0:08:04.97,flashback,GIRL3,0,0,0,,No point getting all worked up over it.
+Dialogue: 0,0:08:06.92,0:08:08.80,flashback italics,ALYA,0,0,0,,It's happening again.
+Dialogue: 0,0:08:11.34,0:08:12.09,flashback,ALYA,0,0,0,,Ouch!
+Dialogue: 0,0:08:15.39,0:08:18.44,flashback italics,ALYA,0,0,0,,I just want to do the best I can...
+Dialogue: 0,0:08:19.06,0:08:21.60,flashback italics,ALYA,0,0,0,,and not throw in the towel.
+Dialogue: 0,0:08:22.42,0:08:24.55,flashback italics,ALYA,0,0,0,,If that's going to leave me all alone,
+Dialogue: 0,0:08:25.99,0:08:28.73,flashback italics,ALYA,0,0,0,,then fine, whatever.
+Dialogue: 0,0:08:33.87,0:08:35.99,flashback,MUNECHIKA,0,0,0,,Figured you'd still be here.
+Dialogue: 0,0:08:36.42,0:08:38.45,flashback,ALYA,0,0,0,,Kuze-kun? What are you doing here?
+Dialogue: 0,0:08:38.98,0:08:41.45,flashback,MASACHIKA,0,0,0,,Hey. Just had a few things to take care of.
+Dialogue: 0,0:08:42.42,0:08:44.46,flashback,MASACHIKA,0,0,0,,You should go home, Kujo-san.
+Dialogue: 0,0:08:45.02,0:08:48.93,flashback,MASACHIKA,0,0,0,,We can all get together \Nand handle this stuff tomorrow.
+Dialogue: 0,0:08:48.93,0:08:50.70,flashback,ALYA,0,0,0,,Don't mind me.
+Dialogue: 0,0:08:50.70,0:08:53.34,flashback,ALYA,0,0,0,,I'll go home after I get some more done.
+Dialogue: 0,0:08:54.17,0:08:56.34,flashback,MASACHIKA,0,0,0,,Yeah? Well, uh...
+Dialogue: 0,0:08:56.97,0:09:01.58,flashback,MASACHIKA,0,0,0,,The handicrafts club agreed to \Nhelp us out with the costumes.
+Dialogue: 0,0:09:01.58,0:09:02.30,flashback,ALYA,0,0,0,,Huh?
+Dialogue: 0,0:09:02.60,0:09:05.10,flashback,MASACHIKA,0,0,0,,Check this out. \NPermission to stay overnight at school.
+Dialogue: 0,0:09:05.64,0:09:09.61,flashback,MASACHIKA,0,0,0,,A special event like that will light a fire \Nunder the unmotivated folks, too.
+Dialogue: 0,0:09:10.02,0:09:12.36,flashback,ALYA,0,0,0,,How did you pull that off?
+Dialogue: 0,0:09:12.97,0:09:16.93,flashback,MASACHIKA,0,0,0,,Asked the former student council \Npresident to pull some strings.
+Dialogue: 0,0:09:16.93,0:09:19.99,flashback,MASACHIKA,0,0,0,,And I told the handicrafts club \Nour boys would help with their work.
+Dialogue: 0,0:09:20.27,0:09:24.27,flashback,MASACHIKA,0,0,0,,If we frame it as a chance \Nto show off to the girls there,
+Dialogue: 0,0:09:24.27,0:09:26.54,flashback,MASACHIKA,0,0,0,,the boys will gladly go for it.
+Dialogue: 0,0:09:28.34,0:09:31.50,flashback,MASACHIKA,0,0,0,,That's the deal, \Nso you should really call it a day.
+Dialogue: 0,0:09:31.50,0:09:34.82,flashback,MASACHIKA,0,0,0,,There's no point grinding away all on your own.
+Dialogue: 0,0:09:38.19,0:09:40.26,flashback,ALYA,0,0,0,,What do you mean, "There's no point"?
+Dialogue: 0,0:09:41.52,0:09:47.34,flashback,ALYA,0,0,0,,I just want to make this a good attraction \Nif I'm going to be participating in it!
+Dialogue: 0,0:09:47.34,0:09:51.16,flashback,ALYA,0,0,0,,I don't want to put out something shoddy!
+Dialogue: 0,0:09:51.61,0:09:54.55,flashback,ALYA,0,0,0,,I refuse to compromise on the quality!
+Dialogue: 0,0:09:54.99,0:10:00.74,sign_generic,SIGN,0,0,0,,{\b1\bord0\fs35\frz343.3\c&H7D8086&\move(296,82.571,392,82.571)}Haunted
+Dialogue: 0,0:09:55.66,0:09:59.76,flashback,ALYA,0,0,0,,But I know that's just my ego talking!
+Dialogue: 0,0:10:00.18,0:10:04.75,flashback,ALYA,0,0,0,,I get that you all don't care \Nabout it as much as I do!
+Dialogue: 0,0:10:04.75,0:10:07.75,flashback,ALYA,0,0,0,,That's why I'm taking on the load \Nand putting in all this effort!
+Dialogue: 0,0:10:07.75,0:10:10.86,flashback,ALYA,0,0,0,,Am I doing anything wrong?!
+Dialogue: 0,0:10:13.82,0:10:16.57,flashback,MASACHIKA,0,0,0,,You're putting effort into the wrong things.
+Dialogue: 0,0:10:16.57,0:10:17.54,flashback,ALYA,0,0,0,,Huh?
+Dialogue: 0,0:10:17.54,0:10:20.97,flashback,MASACHIKA,0,0,0,,School festival attractions \Naren't meant to be built alone.
+Dialogue: 0,0:10:21.30,0:10:24.50,flashback,MASACHIKA,0,0,0,,The whole point of them is for us all \Nto work together to create something.
+Dialogue: 0,0:10:24.50,0:10:26.64,flashback,MASACHIKA,0,0,0,,If you wanna make it the best it can be,
+Dialogue: 0,0:10:26.64,0:10:30.17,flashback,MASACHIKA,0,0,0,,then you should be focusing on how to \Nmotivate the whole class, don't you think?
+Dialogue: 0,0:10:30.17,0:10:31.42,flashback,ALYA,0,0,0,,But...
+Dialogue: 0,0:10:35.66,0:10:40.15,flashback,MASACHIKA,0,0,0,,Well, I suppose putting it like that \Nwould only piss you off.
+Dialogue: 0,0:10:43.74,0:10:45.07,flashback,MASACHIKA,0,0,0,,My bad.
+Dialogue: 0,0:10:45.07,0:10:47.54,flashback,MASACHIKA,0,0,0,,I get that you're doing \Nwhat you can, and I appreciate it.
+Dialogue: 0,0:10:57.40,0:10:58.51,flashback,ALYA,0,0,0,,I'm leaving.
+Dialogue: 0,0:10:59.00,0:11:01.08,flashback,MASACHIKA,0,0,0,,Great. Have a good night.
+Dialogue: 0,0:11:04.19,0:11:05.59,flashback,ALYA,0,0,0,,What's with him?
+Dialogue: 0,0:11:05.59,0:11:06.89,flashback,ALYA,0,0,0,,What's his problem?!
+Dialogue: 0,0:11:16.90,0:11:18.14,flashback,ALYA,0,0,0,,What's his deal...
+Dialogue: 0,0:11:19.15,0:11:24.28,sign_generic,SIGN,0,0,0,,{\bord0\b1\an7\fnComic Sans MS\fs25\c&HCED9CA&}Overnight Session!
+Dialogue: 0,0:11:20.93,0:11:22.07,flashback,TAKESHI,0,0,0,,There you have it!
+Dialogue: 0,0:11:22.45,0:11:24.28,flashback,TAKESHI,0,0,0,,We'll work on the festival stuff
+Dialogue: 0,0:11:24.69,0:11:28.04,flashback,TAKESHI,0,0,0,,{\i1}and{\i0} have some hide-and-seek and \Ntest-of-courage sessions on school grounds.
+Dialogue: 0,0:11:28.04,0:11:32.17,flashback,TAKESHI,0,0,0,,We're gonna have \Na pre-pre-pre-festival party all of our own!
+Dialogue: 0,0:11:32.17,0:11:36.17,flashback,ALL,0,0,0,,Yeah!
+Dialogue: 0,0:11:36.17,0:11:37.67,sign_generic,SIGN,0,0,0,,{\bord0\b1\fnComic Sans Ms\fs25\pos(108.571,198)\frz356.3}Hustle!\NSchool festival starts\Nin 6 days!
+Dialogue: 0,0:11:55.65,0:11:57.15,sign_generic,SIGN,0,0,0,,{\an8\b1\c&H605450&\3c&HFDFFFC&}Seirei Fall Festival
+Dialogue: 0,0:12:07.16,0:12:09.66,sign_generic,SIGN,0,0,0,,{\fnGeorgia\c&H353B44&\an9\3c&HF8F9FA&}Best Attraction Award\NClass Event Category\NClass 3-B
+Dialogue: 0,0:12:24.54,0:12:26.68,flashback,MASACHIKA,0,0,0,,Oh, hey, Kujo-san.
+Dialogue: 0,0:12:27.43,0:12:30.86,flashback,MASACHIKA,0,0,0,,This school can be old-fashioned \Nin the weirdest ways.
+Dialogue: 0,0:12:30.86,0:12:33.74,flashback,MASACHIKA,0,0,0,,Who still holds a folk dance \Nfor the after-party?
+Dialogue: 0,0:12:35.45,0:12:37.27,flashback,ALYA,0,0,0,,May I sit here?
+Dialogue: 0,0:12:38.10,0:12:40.78,flashback,MASACHIKA,0,0,0,,Sure, but aren't you gonna dance?
+Dialogue: 0,0:12:41.26,0:12:43.77,flashback,MASACHIKA,0,0,0,,I'm sure everyone and their mother \Nwants to dance with you.
+Dialogue: 0,0:12:43.77,0:12:46.60,flashback,MASACHIKA,0,0,0,,Oh, wait. Do you not know \Nhow to folk dance or something?
+Dialogue: 0,0:12:46.60,0:12:50.54,flashback,ALYA,0,0,0,,Rude. I practiced ballet as a child, you know.
+Dialogue: 0,0:12:50.93,0:12:54.36,flashback,ALYA,0,0,0,,This simplistic dance \Nwon't be a problem in the least.
+Dialogue: 0,0:12:54.36,0:12:59.67,flashback,ALYA,0,0,0,,But I turned everyone down saying \NI couldn't dance because I can't be bothered.
+Dialogue: 0,0:12:59.97,0:13:02.42,flashback,MASACHIKA,0,0,0,,Fighting 'em off must've been a pain.
+Dialogue: 0,0:13:02.42,0:13:06.00,flashback,ALYA,0,0,0,,Not really. I'm used to it, \Nso it wasn't a big deal.
+Dialogue: 0,0:13:06.00,0:13:07.66,flashback,MASACHIKA,0,0,0,,You don't say.
+Dialogue: 0,0:13:07.66,0:13:09.70,flashback,MASACHIKA,0,0,0,,That's our ice princess for you.
+Dialogue: 0,0:13:09.70,0:13:10.68,flashback,ALYA,0,0,0,,What was that?
+Dialogue: 0,0:13:10.68,0:13:12.25,flashback,MASACHIKA,0,0,0,,Wait, you didn't know?
+Dialogue: 0,0:13:11.04,0:13:13.11,flashbacktop,BGBOY,0,0,0,,May I have this dance with you?
+Dialogue: 0,0:13:12.54,0:13:16.06,flashback,MASACHIKA,0,0,0,,That's what the others \Nhave taken to calling you lately.
+Dialogue: 0,0:13:16.06,0:13:17.71,flashback,ALYA,0,0,0,,Huh.
+Dialogue: 0,0:13:17.71,0:13:20.09,flashback,MASACHIKA,0,0,0,,You don't sound too pleased about it.
+Dialogue: 0,0:13:20.09,0:13:23.06,flashback,ALYA,0,0,0,,Yeah. That's because I'm not.
+Dialogue: 0,0:13:23.06,0:13:25.57,flashback,MASACHIKA,0,0,0,,Why's that? 'Cause they're \Nindirectly calling you a loner?
+Dialogue: 0,0:13:25.57,0:13:30.18,flashback,ALYA,0,0,0,,That's not it. Can you stop \Nwith that mocking tone?
+Dialogue: 0,0:13:30.18,0:13:31.35,flashback,MASACHIKA,0,0,0,,Sorry.
+Dialogue: 0,0:13:31.74,0:13:35.57,flashback,ALYA,0,0,0,,The "princess" part is what I take issue with.
+Dialogue: 0,0:13:35.57,0:13:37.33,flashback,MASACHIKA,0,0,0,,Isn't that a compliment?
+Dialogue: 0,0:13:37.72,0:13:42.13,flashback,ALYA,0,0,0,,It makes it sound like I'm a silver-spoon snob.
+Dialogue: 0,0:13:42.13,0:13:45.76,flashback,MASACHIKA,0,0,0,,That's one way to look at it.
+Dialogue: 0,0:13:46.12,0:13:51.22,flashback,ALYA,0,0,0,,Sure, I was born with \Nabove-average looks and talent.
+Dialogue: 0,0:13:52.19,0:13:56.15,flashback,ALYA,0,0,0,,But never once have I coasted by on that alone.
+Dialogue: 0,0:13:56.15,0:14:01.48,flashback,ALYA,0,0,0,,It annoys me when all my efforts \Nget ignored in favor of my birth.
+Dialogue: 0,0:14:02.02,0:14:03.37,flashback,MASACHIKA,0,0,0,,That makes sense.
+Dialogue: 0,0:14:03.94,0:14:07.36,flashback,MASACHIKA,0,0,0,,I'll make sure not to call you that, then.
+Dialogue: 0,0:14:07.68,0:14:09.11,flashback,ALYA,0,0,0,,Yeah?
+Dialogue: 0,0:14:10.81,0:14:12.89,flashback,ALYA,0,0,0,,Thank you, Kuze-kun.
+Dialogue: 0,0:14:12.89,0:14:14.12,flashback,MASACHIKA,0,0,0,,Hmm? For what?
+Dialogue: 0,0:14:14.12,0:14:16.56,flashbacktop,BGGIRL,0,0,0,,Can you even dance?
+Dialogue: 0,0:14:14.90,0:14:18.27,flashback,ALYA,0,0,0,,You were right. I was wrong.
+Dialogue: 0,0:14:18.27,0:14:20.60,flashback,ALYA,0,0,0,,If I'd tried to do it all alone,
+Dialogue: 0,0:14:20.60,0:14:24.81,flashback,ALYA,0,0,0,,I would've never gotten to experience \Nthe school festival this way.
+Dialogue: 0,0:14:25.90,0:14:30.34,flashback,ALYA,0,0,0,,Also, I'm sorry for \Nlashing out at you the other day.
+Dialogue: 0,0:14:30.34,0:14:32.27,flashback,MASACHIKA,0,0,0,,Don't let it bother you.
+Dialogue: 0,0:14:32.27,0:14:34.50,flashback,MASACHIKA,0,0,0,,All I did was file some paperwork.
+Dialogue: 0,0:14:34.50,0:14:38.31,flashback,MASACHIKA,0,0,0,,I didn't put in half the work \Nyou or Takeshi did.
+Dialogue: 0,0:14:38.31,0:14:40.61,flashback,ALYA,0,0,0,,But it does bother me.
+Dialogue: 0,0:14:40.61,0:14:42.61,flashback,ALYA,0,0,0,,I want to apologize for that
+Dialogue: 0,0:14:42.61,0:14:46.84,flashback,ALYA,0,0,0,,and repay you for all this in a tangible way.
+Dialogue: 0,0:14:47.27,0:14:48.95,flashback,ALYA,0,0,0,,Is there anything you want?
+Dialogue: 0,0:14:49.21,0:14:51.01,flashback,MASACHIKA,0,0,0,,"Repay me," eh?
+Dialogue: 0,0:14:51.01,0:14:53.40,flashback,ALYA,0,0,0,,You're not allowed to refuse.
+Dialogue: 0,0:14:53.40,0:14:55.00,flashback,MASACHIKA,0,0,0,,Hmm...
+Dialogue: 0,0:14:55.74,0:14:57.45,flashback,MASACHIKA,0,0,0,,Wait, I got it!
+Dialogue: 0,0:14:57.72,0:15:01.96,flashback,MASACHIKA,0,0,0,,Isn't there a Russian custom where people\N call each other by special nicknames?
+Dialogue: 0,0:15:01.96,0:15:03.77,flashback,ALYA,0,0,0,,Diminutives? What about them?
+Dialogue: 0,0:15:03.77,0:15:06.98,flashback,MASACHIKA,0,0,0,,Alisha? Or would it be Aliska?
+Dialogue: 0,0:15:06.98,0:15:10.09,flashback,ALYA,0,0,0,,Alya. That's what my family calls me.
+Dialogue: 0,0:15:10.52,0:15:15.63,flashback,MASACHIKA,0,0,0,,Oh, yeah? How about you give me \Npermission to call you Alya, then?
+Dialogue: 0,0:15:15.63,0:15:18.22,flashback,ALYA,0,0,0,,Huh? What's in it for you, though?
+Dialogue: 0,0:15:18.70,0:15:21.24,flashback,MASACHIKA,0,0,0,,You're our class's idol, \Nthe apple of everyone's eye.
+Dialogue: 0,0:15:21.24,0:15:24.48,flashback,MASACHIKA,0,0,0,,And I get the glory of being \Nthe only guy who calls you by your nickname!
+Dialogue: 0,0:15:24.48,0:15:25.94,flashback,ALYA,0,0,0,,Are you okay in the head?
+Dialogue: 0,0:15:25.94,0:15:27.52,flashback,MASACHIKA,0,0,0,,Thank you for this glorious gift!
+Dialogue: 0,0:15:27.52,0:15:28.74,flashback,ALYA,0,0,0,,Gross!
+Dialogue: 0,0:15:28.74,0:15:30.78,flashback,BOY4,0,0,0,,E-Excuse me. Kujo-san?
+Dialogue: 0,0:15:31.84,0:15:34.16,flashback,BOY4,0,0,0,,Would you please dance with me?
+Dialogue: 0,0:15:34.16,0:15:36.76,flashback,BOY5,0,0,0,,Hey! Who said you could go first?!
+Dialogue: 0,0:15:36.76,0:15:39.47,flashback,BOY5,0,0,0,,Alisa-san! I've been \Ninterested in you for a while now!
+Dialogue: 0,0:15:39.47,0:15:41.08,flashback,BOY5,0,0,0,,Please dance with me!
+Dialogue: 0,0:15:41.08,0:15:43.71,flashback,BOY6,0,0,0,,Dude, you practically asked her out! No fair!
+Dialogue: 0,0:15:44.09,0:15:46.80,flashback,ALYA,0,0,0,,I'm sorry. I can't dance.
+Dialogue: 0,0:15:46.80,0:15:50.34,flashback,BOY5,0,0,0,,Come on! All you gotta do \Nis move with the music.
+Dialogue: 0,0:15:50.34,0:15:53.26,flashback,BOY6,0,0,0,,Yeah, you'll be fine! \NI can't really dance either!
+Dialogue: 0,0:15:53.26,0:15:55.12,flashback,BOY6,0,0,0,,Just go with the vibes!
+Dialogue: 0,0:15:55.12,0:15:56.85,flashback,ALYA,0,0,0,,Okay, you all need to calm down.
+Dialogue: 0,0:15:59.21,0:16:01.05,flashback,MASACHIKA,0,0,0,,Sorry, boys, she's taken.
+Dialogue: 0,0:16:03.89,0:16:05.36,flashback,MASACHIKA,0,0,0,,Let's go, Alya.
+Dialogue: 0,0:16:05.71,0:16:07.43,flashback,ALYA,0,0,0,,H-Hey!
+Dialogue: 0,0:16:14.99,0:16:17.87,flashback italics,ALYA,0,0,0,,I can feel my heart about to explode.
+Dialogue: 0,0:16:19.62,0:16:22.25,flashback,MASACHIKA,0,0,0,,Oh, remember what you said?
+Dialogue: 0,0:16:22.25,0:16:26.00,flashback,MASACHIKA,0,0,0,,You used to practice ballet, \Nso you can pick up folk dancing easily, right?
+Dialogue: 0,0:16:26.00,0:16:27.38,flashback,ALYA,0,0,0,,Y-Yeah?
+Dialogue: 0,0:16:27.64,0:16:30.68,flashback,MASACHIKA,0,0,0,,Let's see what you've got, then,
+Dialogue: 0,0:16:30.68,0:16:32.26,flashback,MASACHIKA,0,0,0,,Princess.
+Dialogue: 0,0:16:34.07,0:16:35.39,flashback,ALYA,0,0,0,,You're on!
+Dialogue: 0,0:16:46.47,0:16:48.65,flashback,MASACHIKA,0,0,0,,Morning, Alya.
+Dialogue: 0,0:16:51.03,0:16:55.54,flashback,MASACHIKA,0,0,0,,Hey, what's up? You're looking \Nat me like I'm human garbage.
+Dialogue: 0,0:16:55.54,0:16:56.46,flashback,ALYA,0,0,0,,You waste of space.
+Dialogue: 0,0:16:56.46,0:16:58.03,flashback,MASACHIKA,0,0,0,,Sharp-tongued, much?!
+Dialogue: 0,0:17:00.04,0:17:05.04,sign_generic,SIGN,0,0,0,,{\fnGeorgia\c&H353B44&\an9\3c&HF8F9FA&}Best Attraction Award\NClass Event Category\NClass 3-B
+Dialogue: 0,0:17:00.66,0:17:03.54,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}Just when I'd thought you were so cool last night.
+Dialogue: 0,0:17:06.49,0:17:07.79,Default,MASHA,0,0,0,,I get it now.
+Dialogue: 0,0:17:08.27,0:17:11.80,Default,MASHA,0,0,0,,That's what made you fall for him, huh? \NWhat a lovely story!
+Dialogue: 0,0:17:12.09,0:17:15.32,Default,ALYA,0,0,0,,Again, it's not like that. \NWere you even listening to me?
+Dialogue: 0,0:17:15.32,0:17:16.54,Default,MASHA,0,0,0,,What?
+Dialogue: 0,0:17:16.54,0:17:20.06,Default,MASHA,0,0,0,,That clearly sounded like \Nthe start of a beautiful love story.
+Dialogue: 0,0:17:20.37,0:17:24.56,Default,ALYA,0,0,0,,Stop being weird about it. \NI told you, we're friends.
+Dialogue: 0,0:17:24.56,0:17:29.56,Default,MASHA,0,0,0,,Ah, yes, from friends to lovers. \NThe classic progression.
+Dialogue: 0,0:17:30.11,0:17:32.82,Default,MASHA,0,0,0,,Sa-kun and I were like that, too.
+Dialogue: 0,0:17:33.10,0:17:34.17,Default,MASHA,0,0,0,,Weren't we?
+Dialogue: 0,0:17:36.95,0:17:39.08,Default,ALYA,0,0,0,,All that aside, you get it now.
+Dialogue: 0,0:17:39.08,0:17:43.33,Default,ALYA,0,0,0,,I know how capable he is, and I trust him.
+Dialogue: 0,0:17:43.61,0:17:46.98,Default,MASHA,0,0,0,,Boys who get things done \Nwhen it counts really do shine, huh?
+Dialogue: 0,0:17:47.57,0:17:49.30,Default,MASHA,0,0,0,,Sa-kun was the same.
+Dialogue: 0,0:17:49.30,0:17:53.08,Default,MASHA,0,0,0,,Back when he saved me \Nfrom the dog attack, he was so...
+Dialogue: 0,0:17:53.08,0:17:55.22,Default,ASHA,0,0,0,,Can you go brag about \Nyour love life somewhere else?
+Dialogue: 0,0:17:55.22,0:17:58.36,Default,MASHA,0,0,0,,Come on, Alya-chan! You big meanie!
+Dialogue: 0,0:18:01.97,0:18:03.97,sign_generic,SIGN,0,0,0,,{\b1\c&H292D31&\3c&HDFE7E4&\frx8\fry346\frz8.023\pos(320.001,270)}Student Council Office
+Dialogue: 0,0:18:02.38,0:18:03.97,Default,MASACHIKA,0,0,0,,Excuse me.
+Dialogue: 0,0:18:04.44,0:18:05.84,Default,TOYA,0,0,0,,Hey there, Kuze.
+Dialogue: 0,0:18:05.84,0:18:08.98,Default,TOYA,0,0,0,,Thanks for coming to help.
+Dialogue: 0,0:18:08.98,0:18:12.62,Default,MASACHIKA,0,0,0,,Oh, I'm just here to cover for Yuki.
+Dialogue: 0,0:18:13.17,0:18:15.61,Default,MASHA,0,0,0,,My, so you're Kuze-kun?
+Dialogue: 0,0:18:16.37,0:18:18.99,Default,MASHA,0,0,0,,I'm Mariya Mikhailovna Kujo.
+Dialogue: 0,0:18:18.99,0:18:22.27,Default,MASHA,0,0,0,,Alya-chan's big sis \Nand student council secretary.
+Dialogue: 0,0:18:22.27,0:18:23.87,Default,MASHA,0,0,0,,Nice to meet you.
+Dialogue: 0,0:18:23.87,0:18:25.29,Default,MASACHIKA,0,0,0,,Hello.
+Dialogue: 0,0:18:25.29,0:18:27.64,Default,MASACHIKA,0,0,0,,Alya's been a great friend to me.
+Dialogue: 0,0:18:28.05,0:18:31.38,Default,MASACHIKA,0,0,0,,I heard you needed someone \Nto go shopping with you, Kujo-senpai.
+Dialogue: 0,0:18:31.71,0:18:34.52,Default,MASHA,0,0,0,,Please, call me Masha.
+Dialogue: 0,0:18:34.52,0:18:38.88,Default,MASHA,0,0,0,,Any friend of Alya-chan's \Nis a friend to me, too.
+Dialogue: 0,0:18:39.17,0:18:42.51,Default,MASACHIKA,0,0,0,,Oh... Masha-san, then.
+Dialogue: 0,0:18:45.77,0:18:49.82,Default,MASHA,0,0,0,,Very good. Again, \Nit's a pleasure to meet... you?
+Dialogue: 0,0:18:51.54,0:18:53.15,Default,MASACHIKA,0,0,0,,Wh-What's wrong?
+Dialogue: 0,0:18:54.39,0:18:56.53,Default,MASHA,0,0,0,,Kuze-kun, what's your given name?
+Dialogue: 0,0:18:56.53,0:19:02.03,Default,MASACHIKA,0,0,0,,Huh? It's Masachika, \Nmeaning "together with diplomacy."
+Dialogue: 0,0:19:03.47,0:19:05.37,Default,MASHA,0,0,0,,Masa... chika?
+Dialogue: 0,0:19:06.54,0:19:10.19,Default,TOYA,0,0,0,,What's wrong? Is there something behind Kuze?
+Dialogue: 0,0:19:10.19,0:19:14.30,Default,MASACHIKA,0,0,0,,Prez, shouldn't you ask if there's \Nsomething on my face first?
+Dialogue: 0,0:19:14.30,0:19:15.80,Default,TOYA,0,0,0,,Nice comeback!
+Dialogue: 0,0:19:18.91,0:19:20.55,Default,MASHA,0,0,0,,Oh, sorry about that.
+Dialogue: 0,0:19:21.02,0:19:25.38,Default,MASHA,0,0,0,,I was just so happy to meet Alya-chan's friend.
+Dialogue: 0,0:19:25.38,0:19:26.56,Default,MASACHIKA,0,0,0,,Right...
+Dialogue: 0,0:19:27.81,0:19:29.93,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}Right, shall we get going?
+Dialogue: 0,0:19:31.93,0:19:34.19,Default,MASACHIKA,0,0,0,,Uh, what was that?
+Dialogue: 0,0:19:36.73,0:19:40.20,Default,MASHA,0,0,0,,Oh, right, sorry. I said, "Shall we get going?"
+Dialogue: 0,0:19:40.48,0:19:42.15,Default,MASACHIKA,0,0,0,,Oh, sure.
+Dialogue: 0,0:19:42.15,0:19:44.64,Default,MASHA,0,0,0,,See you later, President.
+Dialogue: 0,0:19:44.64,0:19:46.14,Default,TOYA,0,0,0,,Yeah, take care of it.
+Dialogue: 0,0:19:49.14,0:19:50.98,Default,MASHA,0,0,0,,How about this aromatic here?
+Dialogue: 0,0:19:50.98,0:19:53.83,Default,MASACHIKA,0,0,0,,I don't think that's \Na good idea for the office.
+Dialogue: 0,0:19:53.83,0:19:55.96,Default,MASACHIKA,0,0,0,,That belongs more in your own room.
+Dialogue: 0,0:19:55.96,0:19:57.21,Default,MASHA,0,0,0,,Gosh!
+Dialogue: 0,0:19:58.91,0:20:00.92,Default,MASHA,0,0,0,,Look at this kitty plushie!
+Dialogue: 0,0:20:00.92,0:20:03.22,Default,MASHA,0,0,0,,It looks just like Alya-chan!
+Dialogue: 0,0:20:04.42,0:20:05.22,Default,MASHA,0,0,0,,I've got it!
+Dialogue: 0,0:20:05.50,0:20:10.37,Default,MASHA,0,0,0,,How about getting a plushie that \Nresembles each student council officer?
+Dialogue: 0,0:20:10.37,0:20:12.23,Default,MASACHIKA,0,0,0,,Are you trying to build a theme park?
+Dialogue: 0,0:20:12.84,0:20:18.00,Default,MASACHIKA,0,0,0,,The girls may like it, but I bet it'll \Nmake the prez uncomfortable as hell.
+Dialogue: 0,0:20:18.00,0:20:19.87,Default,MASHA,0,0,0,,For him,
+Dialogue: 0,0:20:19.87,0:20:22.48,Default,MASHA,0,0,0,,we'll get this bespectacled lion over here.
+Dialogue: 0,0:20:22.48,0:20:23.65,Default,MASACHIKA,0,0,0,,Listen, seriously...
+Dialogue: 0,0:20:23.65,0:20:25.24,Default,MASACHIKA,0,0,0,,Wait, that does look like him!
+Dialogue: 0,0:20:25.98,0:20:27.47,Default,MASHA,0,0,0,,We'll get this, then.
+Dialogue: 0,0:20:27.47,0:20:31.25,Default,MASACHIKA,0,0,0,,Sure, it looks like him, \Nbut I don't think plushies are gonna fly.
+Dialogue: 0,0:20:31.25,0:20:32.88,Default,MASHA,0,0,0,,What...
+Dialogue: 0,0:20:32.88,0:20:35.32,Default,MASACHIKA,0,0,0,,Right back at you.
+Dialogue: 0,0:20:36.70,0:20:38.25,Default,MASHA,0,0,0,,Fine.
+Dialogue: 0,0:20:38.58,0:20:42.26,Default,MASHA,0,0,0,,But I'll get this kitty for myself. It's cute.
+Dialogue: 0,0:20:42.78,0:20:44.72,Default,MASACHIKA,0,0,0,,Better not get it on the same receipt.
+Dialogue: 0,0:20:44.72,0:20:47.31,Default,MASACHIKA,0,0,0,,Alya'll get mad at you. She's the treasurer.
+Dialogue: 0,0:20:51.75,0:20:54.73,italics,MASACHIKA,0,0,0,,Help. She's way too eccentric.
+Dialogue: 0,0:20:54.73,0:20:57.00,italics,MASACHIKA,0,0,0,,Is she always like this?
+Dialogue: 0,0:20:57.42,0:21:01.77,italics,MASACHIKA,0,0,0,,If she is, then Alya must've \Ngone through a lot.
+Dialogue: 0,0:21:04.22,0:21:06.03,Default,MASHA,0,0,0,,This is the place, Kuze-kun.
+Dialogue: 0,0:21:06.03,0:21:09.48,Default,MASACHIKA,0,0,0,,Oh, okay. I'll hold that for you.
+Dialogue: 0,0:21:10.21,0:21:11.74,Default,MASHA,0,0,0,,Thank you.
+Dialogue: 0,0:21:11.74,0:21:14.75,Default,MASHA,0,0,0,,Take care of Alya-nyan for me.
+Dialogue: 0,0:21:15.24,0:21:15.92,Default,MASACHIKA,0,0,0,,A...
+Dialogue: 0,0:21:16.59,0:21:18.32,Default,MASACHIKA,0,0,0,,Alya-nyan?
+Dialogue: 0,0:21:19.63,0:21:21.73,Default,MASHA,0,0,0,,My, you two look great together.
+Dialogue: 0,0:21:21.73,0:21:23.82,Default,MASACHIKA,0,0,0,,I have doubts about your tastes.
+Dialogue: 0,0:21:23.82,0:21:25.38,Default,MASHA,0,0,0,,Say cheese.
+Dialogue: 0,0:21:25.38,0:21:26.90,Default,MASACHIKA,0,0,0,,Oh, no you don't.
+Dialogue: 0,0:21:26.90,0:21:29.42,Default,MASHA,0,0,0,,Come on, what's the big deal?
+Dialogue: 0,0:21:29.42,0:21:31.78,Default,MASACHIKA,0,0,0,,Aren't we here to pick up tea?
+Dialogue: 0,0:21:31.78,0:21:34.08,Default,MASHA,0,0,0,,Ugh, fine.
+Dialogue: 0,0:21:36.64,0:21:37.70,Default,TEAMANS,0,0,0,,Here.
+Dialogue: 0,0:21:37.70,0:21:39.30,Default,MASHA,0,0,0,,Thank you.
+Dialogue: 0,0:21:39.30,0:21:41.90,Default,TEAMANS,0,0,0,,These leaves are first flush, \Nso they have a slight bitterness.
+Dialogue: 0,0:21:41.90,0:21:43.27,Default,MASHA,0,0,0,,Say, Kuze-kun.
+Dialogue: 0,0:21:43.65,0:21:45.65,Default,MASHA,0,0,0,,What do you think?
+Dialogue: 0,0:21:45.65,0:21:48.80,Default,MASACHIKA,0,0,0,,Uh, I'm not really an expert in red teas.
+Dialogue: 0,0:21:48.80,0:21:50.03,Default,MASHA,0,0,0,,No?
+Dialogue: 0,0:21:51.13,0:21:57.29,italics,MASACHIKA,0,0,0,,Yuki could probably chime in. \NThat mother of ours has taught her a lot.
+Dialogue: 0,0:21:57.88,0:21:59.17,Default,MASACHIKA,0,0,0,,But I...
+Dialogue: 0,0:21:59.86,0:22:01.35,flashback,KYOTARO,0,0,0,,I'm sorry, Masachika.
+Dialogue: 0,0:22:01.78,0:22:06.10,flashback,KYOTARO,0,0,0,,Your mother and I have\Ndecided to live separately.
+Dialogue: 0,0:22:07.71,0:22:08.98,flashback,MASACHIKA,0,0,0,,Okay.
+Dialogue: 0,0:22:09.66,0:22:14.43,flashback,MASACHIKA,0,0,0,,Then I'll follow... \NI'll choose to go with you, Dad.
+Dialogue: 0,0:22:18.07,0:22:19.94,flashback,YUKI,0,0,0,,I'm sorry, Nii-sama.
+Dialogue: 0,0:22:20.91,0:22:23.94,flashback,YUKI,0,0,0,,I'm going to stay here.
+Dialogue: 0,0:22:25.57,0:22:26.94,Default,MASHA,0,0,0,,Kuze-kun?
+Dialogue: 0,0:22:28.51,0:22:29.86,Default,MASHA,0,0,0,,Is something wrong?
+Dialogue: 0,0:22:29.86,0:22:32.37,Default,MASACHIKA,0,0,0,,N-No, it's nothing.
+Dialogue: 0,0:22:34.31,0:22:36.25,Default,MASHA,0,0,0,,You look terribly pained.
+Dialogue: 0,0:22:42.35,0:22:43.64,Default,MASHA,0,0,0,,It's okay.
+Dialogue: 0,0:22:44.18,0:22:45.74,Default,MASHA,0,0,0,,There, there.
+Dialogue: 0,0:22:47.29,0:22:48.84,italics,MASACHIKA,0,0,0,,What is this feeling?
+Dialogue: 0,0:22:49.40,0:22:53.36,italics,MASACHIKA,0,0,0,,It's so familiar... and so relaxing.
+Dialogue: 0,0:22:56.60,0:22:58.27,Default,MASACHIKA,0,0,0,,Ow! Hot!
+Dialogue: 0,0:22:58.72,0:22:59.48,Default,MASHA,0,0,0,,Oh?
+Dialogue: 0,0:22:59.48,0:23:02.27,Default,MASACHIKA,0,0,0,,M-Masha-san! The tea's touching my back!
+Dialogue: 0,0:23:02.27,0:23:03.02,Default,MASHA,0,0,0,,Oh, dear.
+Dialogue: 0,0:23:03.02,0:23:06.37,Default,MASACHIKA,0,0,0,,Ow!
+Dialogue: 0,0:23:06.37,0:23:08.26,Default,MASHA,0,0,0,,Oh, dear!
