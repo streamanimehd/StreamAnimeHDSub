@@ -1,0 +1,411 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Cyrillic,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.52,0:00:07.79,Default,AYANO,0,0,0,,Masachika-sama.
+Dialogue: 0,0:00:11.77,0:00:13.11,Default,AYANO,0,0,0,,Masachika-sama.
+Dialogue: 0,0:00:14.52,0:00:15.50,Default,MASACHIKA,0,0,0,,Ayano...
+Dialogue: 0,0:00:16.01,0:00:17.57,Default,MASACHIKA,0,0,0,,You need something?
+Dialogue: 0,0:00:17.57,0:00:19.89,Default,AYANO,0,0,0,,I apologize for startling you.
+Dialogue: 0,0:00:19.89,0:00:22.87,Default,AYANO,0,0,0,,May I have a moment of your time?
+Dialogue: 0,0:00:23.33,0:00:24.94,Default,MASACHIKA,0,0,0,,Uh, okay.
+Dialogue: 0,0:00:24.94,0:00:26.62,Default,AYANO,0,0,0,,Thank you.
+Dialogue: 0,0:00:26.62,0:00:27.56,Default,AYANO,0,0,0,,Please follow me.
+Dialogue: 0,0:00:28.42,0:00:31.94,italics,MASACHIKA,0,0,0,,She's like a ninja. Never fails to amaze me.
+Dialogue: 0,0:01:50.58,0:01:51.25,sign_generic,TITLECARD1,0,0,0,,{\b1\c&HEAFCFA&\3c&HB590F8&\an7\frz11.4\fs35\fade(200,1)\move(103.091,158.364,103,153.273)}Sometimes
+Dialogue: 0,0:01:51.25,0:01:52.00,sign_generic,TITLECARD2,0,0,0,,{\fnTimes New Roman\b1\bord0\c&H2E404D&\fs35\an8}in Russian
+Dialogue: 0,0:01:52.00,0:01:52.75,sign_generic,TITLECARD3,0,0,0,,{\fnTimes New Roman\b1\bord0\c&H2E404D&\fs35\an8}Hides Her
+Dialogue: 0,0:01:52.75,0:01:53.50,sign_generic,TITLECARD4,0,0,0,,{\fnTimes New Roman\b1\bord0\c&H2E404D&\fs35\an8\pos(319.273,59.455)}Feelings
+Dialogue: 0,0:01:53.50,0:01:55.59,sign_generic,TITLECARD,0,0,0,,{\fnTimes New Roman\fs25\b1\bord0\c&H2E404D&\an8}Alya {\fnArial\bord2\3c&H9A6BEE&\c&HFBF7FF&\fs}Sometimes {\fnTimes New Roman\b1\bord0\c&H2E404D&\fs25}Hides\NHer Feelings in Russian
+Dialogue: 0,0:02:03.93,0:02:08.85,sign_generic,EPTITLE,0,0,0,,{\fs14\frz6.763\c&HFBE2FF&\3c&H974BEF&\b1\fade(1,450)\pos(423.778,315.475)}Episode 7
+Dialogue: 0,0:02:04.06,0:02:06.69,top,AYANO,0,0,0,,Thank you for taking the time to—
+Dialogue: 0,0:02:04.14,0:02:08.85,sign_generic,EPTITLE,0,0,0,,{\bord1\shad1\an7\fs18\3c&H828081&\4c&H636162&\blur1\fade(400,450)\pos(475.585,282.162)}A Storm Arrives
+Dialogue: 0,0:02:06.69,0:02:07.98,top,MASACHIKA,0,0,0,,Skip the formalities.
+Dialogue: 0,0:02:08.27,0:02:09.40,top,MASACHIKA,0,0,0,,Get to the point.
+Dialogue: 0,0:02:09.40,0:02:10.97,Default,AYANO,0,0,0,,My apologies.
+Dialogue: 0,0:02:11.40,0:02:12.36,Default,AYANO,0,0,0,,Very well.
+Dialogue: 0,0:02:12.85,0:02:17.34,Default,AYANO,0,0,0,,I hear that you're planning to run with \NKujo-sama in the presidential election.
+Dialogue: 0,0:02:17.34,0:02:19.61,Default,AYANO,0,0,0,,Is this true?
+Dialogue: 0,0:02:19.90,0:02:20.61,Default,MASACHIKA,0,0,0,,Yeah.
+Dialogue: 0,0:02:23.70,0:02:28.50,Default,AYANO,0,0,0,,Master has expressed \Nhis displeasure with this turn of events.
+Dialogue: 0,0:02:29.45,0:02:37.13,Default,AYANO,0,0,0,,He was incredulous that you stand in \NYuki-sama's way after abandoning the Suou name.
+Dialogue: 0,0:02:37.45,0:02:39.13,Default,MASACHIKA,0,0,0,,That geezer...
+Dialogue: 0,0:02:39.91,0:02:43.78,italics,MASACHIKA,0,0,0,,He gave me the whole, "If you leave, \Nwe will be no more than strangers"
+Dialogue: 0,0:02:43.78,0:02:47.23,italics,MASACHIKA,0,0,0,,and "You will not be allowed to \Ncall yourself Yuki's brother" spiel,
+Dialogue: 0,0:02:47.23,0:02:49.24,italics,MASACHIKA,0,0,0,,and now he wants to act like we're family?
+Dialogue: 0,0:02:49.64,0:02:51.93,italics,MASACHIKA,0,0,0,,Screw you, you dinosaur.
+Dialogue: 0,0:02:52.53,0:02:53.86,Default,MASACHIKA,0,0,0,,And?
+Dialogue: 0,0:02:53.86,0:02:57.28,Default,MASACHIKA,0,0,0,,He sent you to confirm whether it was true?
+Dialogue: 0,0:02:57.56,0:03:00.73,Default,AYANO,0,0,0,,No, I'm asking of my own accord.
+Dialogue: 0,0:03:00.73,0:03:07.30,Default,AYANO,0,0,0,,As Yuki-sama's aide, it is my job \Nto assess any and all threats to her.
+Dialogue: 0,0:03:07.30,0:03:09.79,Default,MASACHIKA,0,0,0,,Wow, such fealty. What are you, a samurai?
+Dialogue: 0,0:03:10.68,0:03:19.21,Default,AYANO,0,0,0,,I... truly believed that you would never \Ndo anything to cause Yuki-sama grief.
+Dialogue: 0,0:03:20.10,0:03:22.55,Default,AYANO,0,0,0,,Was my trust in you misplaced?
+Dialogue: 0,0:03:22.99,0:03:27.07,Default,MASACHIKA,0,0,0,,I didn't decide to run in order to oppose Yuki.
+Dialogue: 0,0:03:27.49,0:03:30.81,Default,MASACHIKA,0,0,0,,It was just an unfortunate consequence.
+Dialogue: 0,0:03:31.16,0:03:32.81,Default,AYANO,0,0,0,,Whatever your thought process,
+Dialogue: 0,0:03:32.81,0:03:35.31,Default,AYANO,0,0,0,,the fact remains that you are now \Non a collision course.
+Dialogue: 0,0:03:35.67,0:03:39.57,Default,AYANO,0,0,0,,Is running with Kujo-sama so important to you
+Dialogue: 0,0:03:40.11,0:03:44.82,Default,AYANO,0,0,0,,that you would betray \Nand hurt Yuki-sama to do it?
+Dialogue: 0,0:03:45.79,0:03:46.83,Default,MASACHIKA,0,0,0,,Yeah.
+Dialogue: 0,0:03:48.35,0:03:54.21,Default,MASACHIKA,0,0,0,,I promised her that I would do everything \Nin my power to make her president.
+Dialogue: 0,0:03:54.51,0:03:58.15,Default,AYANO,0,0,0,,Is that because you harbor \Nspecial feelings for her?
+Dialogue: 0,0:03:58.15,0:04:00.02,Default,AYANO,0,0,0,,Do you, perhaps...
+Dialogue: 0,0:04:00.02,0:04:00.94,Default,MASACHIKA,0,0,0,,Nope.
+Dialogue: 0,0:04:01.37,0:04:03.84,Default,MASACHIKA,0,0,0,,It was just something I decided I wanted to do.
+Dialogue: 0,0:04:05.87,0:04:07.90,Default,MASACHIKA,0,0,0,,So tell Gramps this for me:
+Dialogue: 0,0:04:07.90,0:04:10.16,Default,MASACHIKA,0,0,0,,Don't pester Yuki about this.
+Dialogue: 0,0:04:10.70,0:04:12.10,Default,MASACHIKA,0,0,0,,If you've got a problem,
+Dialogue: 0,0:04:12.54,0:04:14.98,Default,MASACHIKA,0,0,0,,come say it to my face.
+Dialogue: 0,0:04:17.54,0:04:19.48,Default,AYANO,0,0,0,,Understood.
+Dialogue: 0,0:04:19.94,0:04:22.54,Default,AYANO,0,0,0,,May I ask you one last thing?
+Dialogue: 0,0:04:23.02,0:04:28.87,Default,AYANO,0,0,0,,Can I trust that your love \Nfor Yuki-sama remains the same?
+Dialogue: 0,0:04:29.31,0:04:33.83,Default,MASACHIKA,0,0,0,,Yuki is still the most important \Nperson in the world to me.
+Dialogue: 0,0:04:33.83,0:04:35.51,Default,MASACHIKA,0,0,0,,That part hasn't changed.
+Dialogue: 0,0:04:37.34,0:04:40.88,Default,MASACHIKA,0,0,0,,So, please, be there for her.
+Dialogue: 0,0:04:42.71,0:04:44.50,Default,AYANO,0,0,0,,I understand.
+Dialogue: 0,0:04:44.50,0:04:48.27,Default,AYANO,0,0,0,,I'm glad to have been able to hear \Nyour thoughts on this matter.
+Dialogue: 0,0:04:50.98,0:04:52.51,Default,AYANO,0,0,0,,Now, if you'll excuse me.
+Dialogue: 0,0:04:55.59,0:04:58.87,Default,MASACHIKA,0,0,0,,I guess I ended up disappointing her.
+Dialogue: 0,0:05:01.28,0:05:04.78,sign_generic,SIGN,0,0,0,,{\an8\b1\fs25\c&HC939E1&\3c&H16E2E9&}Young Blahblah
+Dialogue: 0,0:05:01.28,0:05:04.78,Default,TAKESHI,0,0,0,,Ta-da! Check out this week's bikini cover!
+Dialogue: 0,0:05:05.26,0:05:07.74,Default,TAKESHI,0,0,0,,Say, Masachika, who's your fave?
+Dialogue: 0,0:05:07.74,0:05:10.29,Default,MASACHIKA,0,0,0,,Sorry, I don't really get idols.
+Dialogue: 0,0:05:10.29,0:05:12.58,Default,TAKESHI,0,0,0,,Dude, quit sounding like an old man.
+Dialogue: 0,0:05:12.58,0:05:14.65,Default,TAKESHI,0,0,0,,Come on, you can pick off looks.
+Dialogue: 0,0:05:14.65,0:05:17.08,Default,MASACHIKA,0,0,0,,Well, in that case...
+Dialogue: 0,0:05:17.40,0:05:20.84,Default,MASACHIKA,0,0,0,,In this group, I guess that one?
+Dialogue: 0,0:05:21.21,0:05:22.68,Default,HIKARU,0,0,0,,Hmm?
+Dialogue: 0,0:05:22.68,0:05:26.14,Default,HIKARU,0,0,0,,The girl you picked kinda \Nlooks like Kujo-senpai.
+Dialogue: 0,0:05:26.14,0:05:27.22,Default,TAKESHI,0,0,0,,Oh?
+Dialogue: 0,0:05:27.22,0:05:28.57,Default,MASACHIKA,0,0,0,,Does she?
+Dialogue: 0,0:05:30.06,0:05:32.73,Default,TAKESHI,0,0,0,,Now that you mention it, I see the resemblance.
+Dialogue: 0,0:05:32.73,0:05:35.56,Default,TAKESHI,0,0,0,,Are you into girls like Kujo-senpai, Masachika?
+Dialogue: 0,0:05:35.56,0:05:37.15,Default,MASACHIKA,0,0,0,,Not really?
+Dialogue: 0,0:05:37.15,0:05:39.42,Default,MASACHIKA,0,0,0,,Masha-san has a boyfriend, anyway.
+Dialogue: 0,0:05:39.42,0:05:41.40,Default,HIKARU,0,0,0,,So you totally would if she didn't.
+Dialogue: 0,0:05:41.72,0:05:45.95,Default,TAKESHI,0,0,0,,Wait, when'd you start using her nickname? \NYou been making a move, huh?
+Dialogue: 0,0:05:45.95,0:05:48.66,Default,MASACHIKA,0,0,0,,No way. It just happened.
+Dialogue: 0,0:05:48.66,0:05:51.85,Default,MASACHIKA,0,0,0,,I've never looked at her in that way...
+Dialogue: 0,0:05:58.37,0:05:59.50,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}You animal.
+Dialogue: 0,0:06:01.31,0:06:06.13,Default,ALYA,0,0,0,,Do you really think it's okay for a student \Ncouncil officer to bring that to school?
+Dialogue: 0,0:06:06.13,0:06:11.45,Default,MASACHIKA,0,0,0,,Well, actually, Takeshi was \Nthe one who brought it.
+Dialogue: 0,0:06:11.45,0:06:13.45,Default,ALYA,0,0,0,,Then you should tell him off.
+Dialogue: 0,0:06:13.45,0:06:14.52,Default,MASACHIKA,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:06:20.53,0:06:24.27,Default,TAKESHI,0,0,0,,Okay, change of topics. \NEver thought about dating Suou-san?
+Dialogue: 0,0:06:25.03,0:06:27.70,Default,MASACHIKA,0,0,0,,Never. Not in a million years.
+Dialogue: 0,0:06:27.70,0:06:28.61,Default,HIKARU,0,0,0,,Why not?
+Dialogue: 0,0:06:28.61,0:06:30.12,Default,MASACHIKA,0,0,0,,I mean...
+Dialogue: 0,0:06:31.05,0:06:35.66,Default,MASACHIKA,0,0,0,,Anyway, I want a girlfriend \Nwho can also be my best friend.
+Dialogue: 0,0:06:35.91,0:06:38.91,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}So, someone like me?
+Dialogue: 0,0:06:40.28,0:06:42.28,Default,TAKESHI,0,0,0,,Masachika? What's wrong?
+Dialogue: 0,0:06:42.28,0:06:43.54,Default,MASACHIKA,0,0,0,,Uh, nothing.
+Dialogue: 0,0:06:46.38,0:06:51.05,Default,MASACHIKA,0,0,0,,And, well, I'd like a girl \Nwith a cute smile.
+Dialogue: 0,0:06:53.44,0:06:57.68,Default,HIKARU,0,0,0,,Yeah, people with cold eyes \Ncan feel quite distant.
+Dialogue: 0,0:06:59.18,0:07:02.06,Default,TAKESHI,0,0,0,,How they carry themselves \Nin daily life really matters.
+Dialogue: 0,0:07:04.41,0:07:07.94,Default,MASACHIKA,0,0,0,,Hey, watch what you're saying! \NYou're hurting Alya!
+Dialogue: 0,0:07:08.78,0:07:09.40,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}Whatever.
+Dialogue: 0,0:07:10.28,0:07:12.78,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}It doesn't matter. I have friends.
+Dialogue: 0,0:07:13.41,0:07:15.81,Default,MASACHIKA,0,0,0,,Just gas her up some for now!
+Dialogue: 0,0:07:15.81,0:07:17.04,Default,TAKESHI,0,0,0,,Okay, fine.
+Dialogue: 0,0:07:17.78,0:07:22.79,Default,TAKESHI,0,0,0,,But, hey, that stuff doesn't matter when \Nwe're talking about a girl as pretty as Alya!
+Dialogue: 0,0:07:22.79,0:07:24.36,Default,MASACHIKAHIKARU,0,0,0,,You're not helping!
+Dialogue: 0,0:07:24.36,0:07:25.04,Default,TAKESHI,0,0,0,,Huh?
+Dialogue: 0,0:07:25.59,0:07:29.55,Default,ALYA,0,0,0,,Huh... So that's how you see me.
+Dialogue: 0,0:07:29.90,0:07:35.18,Default,ALYA,0,0,0,,Well, {\i1}excuse{\i0} me for being a girl \Nwho's all looks and no charm.
+Dialogue: 0,0:07:35.18,0:07:37.56,Default,TAKESHI,0,0,0,,Uh, nobody said that.
+Dialogue: 0,0:07:37.56,0:07:38.18,Default,TAKESHI,0,0,0,,Eek!
+Dialogue: 0,0:07:38.52,0:07:40.81,Default,ALYA,0,0,0,,On second thought, I'm taking this.
+Dialogue: 0,0:07:46.54,0:07:47.57,Default,YUKI,0,0,0,,Come in.
+Dialogue: 0,0:07:47.88,0:07:49.16,Default,AYANO,0,0,0,,Excuse me.
+Dialogue: 0,0:07:52.33,0:07:54.34,Default,YUKI,0,0,0,,Well? Satisfied now?
+Dialogue: 0,0:07:54.34,0:07:59.82,Default,AYANO,0,0,0,,Yes. Masachika-sama \Nis still the man I idolized.
+Dialogue: 0,0:07:59.82,0:08:02.83,Default,YUKI,0,0,0,,Glad to hear it. What'd he say?
+Dialogue: 0,0:08:03.13,0:08:08.33,Default,AYANO,0,0,0,,He refused to back down \Non running with Kujo-sama.
+Dialogue: 0,0:08:08.33,0:08:09.84,Default,YUKI,0,0,0,,Figures.
+Dialogue: 0,0:08:09.84,0:08:17.37,Default,AYANO,0,0,0,,He also asked me to tell Master, "If you've \Ngot a problem, come say it to my face."
+Dialogue: 0,0:08:17.37,0:08:19.47,Default,YUKI,0,0,0,,Hoo boy.
+Dialogue: 0,0:08:19.87,0:08:23.35,Default,YUKI,0,0,0,,Them's fighting words. \NOnii-chan's serious about this.
+Dialogue: 0,0:08:23.65,0:08:28.23,Default,AYANO,0,0,0,,He is. His fantastic aggressiveness \Nsent shockwaves through my womb.
+Dialogue: 0,0:08:29.16,0:08:32.42,Default,YUKI,0,0,0,,Uh-huh? It did that, huh?
+Dialogue: 0,0:08:32.42,0:08:33.24,Default,AYANO,0,0,0,,Yes.
+Dialogue: 0,0:08:33.54,0:08:40.49,Default,YUKI,0,0,0,,Uh... Just checking, you're not in love \Nwith him or anything, are you?
+Dialogue: 0,0:08:40.49,0:08:42.38,Default,AYANO,0,0,0,,That is correct.
+Dialogue: 0,0:08:42.38,0:08:49.46,Default,AYANO,0,0,0,,I idolize him as I do you, but there are \Nno romantic feelings involved.
+Dialogue: 0,0:08:49.46,0:08:50.88,Default,YUKI,0,0,0,,Is that so...?
+Dialogue: 0,0:08:50.88,0:08:56.50,Default,AYANO,0,0,0,,I would never have the gall \Nto seek to be his girlfriend.
+Dialogue: 0,0:08:56.50,0:08:59.76,Default,AYANO,0,0,0,,All I wish is to serve him well as a tool.
+Dialogue: 0,0:08:59.76,0:09:02.40,Default,YUKI,0,0,0,,Way to sound like a sub!
+Dialogue: 0,0:09:02.40,0:09:06.44,Default,AYANO,0,0,0,,I'm afraid I don't understand. \NWhat do you mean by "sub"?
+Dialogue: 0,0:09:06.44,0:09:10.81,Default,YUKI,0,0,0,,Huh? Er... A super maid Serving Under a Boss.
+Dialogue: 0,0:09:10.81,0:09:12.11,Default,YUKI,0,0,0,,S-U-B.
+Dialogue: 0,0:09:12.11,0:09:13.53,Default,AYANO,0,0,0,,Thank you for explaining.
+Dialogue: 0,0:09:14.79,0:09:16.13,Default,AYANO,0,0,0,,You honor me.
+Dialogue: 0,0:09:16.13,0:09:19.78,Default,AYANO,0,0,0,,I'll continue to do my utmost \Nto be the perfect sub.
+Dialogue: 0,0:09:20.89,0:09:23.29,Default,YUKI,0,0,0,,Yo, did you hear that?
+Dialogue: 0,0:09:23.82,0:09:26.22,Default,AYANO,0,0,0,,Right, one last thing.
+Dialogue: 0,0:09:26.22,0:09:27.67,Default,YUKI,0,0,0,,Hmm? What is it?
+Dialogue: 0,0:09:27.67,0:09:30.49,Default,AYANO,0,0,0,,Masachika-sama also said that
+Dialogue: 0,0:09:30.49,0:09:35.30,Default,AYANO,0,0,0,,you are still the most important \Nperson in the world to him.
+Dialogue: 0,0:09:42.28,0:09:43.52,Default,AYANO,0,0,0,,Yuki-sama?
+Dialogue: 0,0:09:49.45,0:09:54.99,Default,YUKI,0,0,0,,Close call! I nearly screamed out \Nmy love for him in the middle of school!
+Dialogue: 0,0:09:56.02,0:10:00.16,Default,YUKI,0,0,0,,My dearest brother sure knows \Nhow to tug at my heartstrings.
+Dialogue: 0,0:10:02.67,0:10:04.07,Default,YUKI,0,0,0,,That aside...
+Dialogue: 0,0:10:05.08,0:10:07.69,Default,YUKI,0,0,0,,He's really set on taking me on, huh?
+Dialogue: 0,0:10:08.41,0:10:11.66,Default,YUKI,0,0,0,,Nice. Things are getting interesting.
+Dialogue: 0,0:10:12.29,0:10:15.56,Default,YUKI,0,0,0,,Honestly, I didn't think Alya-san \Nwould've put up much of a fight by herself.
+Dialogue: 0,0:10:15.56,0:10:20.30,Default,AYANO,0,0,0,,Most of the first-years seem \Nto believe that you will get elected.
+Dialogue: 0,0:10:20.65,0:10:24.76,Default,AYANO,0,0,0,,As for Kujo-sama... I hate to be blunt, but...
+Dialogue: 0,0:10:24.76,0:10:30.48,Default,AYANO,0,0,0,,"She's being dumb 'cause she transferred \Ninto our middle school after Suou's reign"
+Dialogue: 0,0:10:30.48,0:10:32.31,Default,AYANO,0,0,0,,seems to be the prevailing opinion.
+Dialogue: 0,0:10:33.63,0:10:35.55,Default,YUKI,0,0,0,,Wow, they're merciless.
+Dialogue: 0,0:10:35.55,0:10:40.95,Default,YUKI,0,0,0,,Now, how does Onii-chan plan \Nto turn this situation around?
+Dialogue: 0,0:10:41.29,0:10:42.91,Default,AYANO,0,0,0,,You seem to be enjoying yourself.
+Dialogue: 0,0:10:42.91,0:10:44.20,Default,YUKI,0,0,0,,I am.
+Dialogue: 0,0:10:44.53,0:10:46.68,Default,YUKI,0,0,0,,I get to go up against that prodigy—
+Dialogue: 0,0:10:46.68,0:10:49.71,Default,YUKI,0,0,0,,the greatest talent the Suou family \Nhas ever produced.
+Dialogue: 0,0:10:50.44,0:10:54.28,Default,YUKI,0,0,0,,Onii-chan, who I could never best at anything,
+Dialogue: 0,0:10:54.28,0:10:59.09,Default,YUKI,0,0,0,,is coming at me with \Na formidable partner, Alya-san!
+Dialogue: 0,0:10:59.40,0:11:03.16,Default,YUKI,0,0,0,,It's enough to make the heart sing! \N{\i1}Now{\i0} we're talking!
+Dialogue: 0,0:11:03.16,0:11:06.47,Default,YUKI,0,0,0,,Bring it! I'll take you on with all I've got!
+Dialogue: 0,0:11:11.28,0:11:12.62,Default,YUKI,0,0,0,,By the way, Ayano.
+Dialogue: 0,0:11:12.62,0:11:14.63,Default,AYANO,0,0,0,,What is it, Yuki-sama?
+Dialogue: 0,0:11:17.45,0:11:20.99,Default,YUKI,0,0,0,,Wasn't I giving off some major \Nfinal boss vibes just now?
+Dialogue: 0,0:11:23.91,0:11:25.66,sign_generic,SIGN,0,0,0,,{\bordo\b1\c&H4B5355&\frz11.61\frx16\fry344\pos(317,117)}Student Council Office
+Dialogue: 0,0:11:29.62,0:11:30.66,Default,YUKI,0,0,0,,I raise.
+Dialogue: 0,0:11:33.01,0:11:35.18,Default,ALYA,0,0,0,,Fold. I'm out.
+Dialogue: 0,0:11:35.18,0:11:37.23,Default,YUKI,0,0,0,,Oh, really?
+Dialogue: 0,0:11:37.23,0:11:41.46,Default,YUKI,0,0,0,,All I had was a high card. \NI guess bluffs do work.
+Dialogue: 0,0:11:41.46,0:11:42.43,Default,ALYA,0,0,0,,What?!
+Dialogue: 0,0:11:42.43,0:11:44.46,Default,MASHA,0,0,0,,Oh no, Alya-chan.
+Dialogue: 0,0:11:44.46,0:11:46.18,Default,MASHA,0,0,0,,That's too bad.
+Dialogue: 0,0:11:53.65,0:11:56.89,Default,TOYA,0,0,0,,Looks like Suou's got the upper hand there.
+Dialogue: 0,0:11:53.65,0:12:00.15,sign_generic,SIGN,0,0,0,,{\fnComic Sans MS\b1\fs12\3c&HE2ECEA&\c&H4D5358&\frx0\fry14\pos(24,144)}New \NStudent\N Council\NMembers\NWelcome\N Party
+Dialogue: 0,0:11:56.89,0:12:00.15,Default,MASACHIKA,0,0,0,,It's a battle of wits, \Nand that's Yuki's playground.
+Dialogue: 0,0:12:00.60,0:12:02.86,Default,CHISAKI,0,0,0,,I'm sure that's part of it,
+Dialogue: 0,0:12:02.86,0:12:05.78,Default,CHISAKI,0,0,0,,but I feel like Alya-chan's \Nsimply too easy to read.
+Dialogue: 0,0:12:05.78,0:12:07.47,Default,MASACHIKA,0,0,0,,Sarashina-senpai...
+Dialogue: 0,0:12:07.47,0:12:09.66,Default,MASACHIKA,0,0,0,,I was trying not to say it out loud.
+Dialogue: 0,0:12:09.66,0:12:11.79,Default,CHISAKI,0,0,0,,Oops. Sorry about that.
+Dialogue: 0,0:12:13.90,0:12:16.63,Default,TOYA,0,0,0,,The younger Kujo doesn't have \Nmuch of a poker face, does she?
+Dialogue: 0,0:12:17.37,0:12:21.13,Default,TOYA,0,0,0,,I kind of assumed \Nshe would be a lot more composed.
+Dialogue: 0,0:12:21.50,0:12:25.55,Default,TOYA,0,0,0,,On the contrary, the elder Kujo \Nmight be the one who's hard to read.
+Dialogue: 0,0:12:25.86,0:12:28.01,Default,MASACHIKA,0,0,0,,Ah, yeah.
+Dialogue: 0,0:12:28.42,0:12:32.24,Default,CHISAKI,0,0,0,,I can't really tell \Nwhat she's thinking, either.
+Dialogue: 0,0:12:32.24,0:12:35.72,Default,CHISAKI,0,0,0,,She's a great girl, almost a paragon of virtue,
+Dialogue: 0,0:12:35.72,0:12:39.50,Default,CHISAKI,0,0,0,,but she does the strangest \Ndamn things from time to time.
+Dialogue: 0,0:12:39.50,0:12:41.65,Default,MASACHIKA,0,0,0,,She's got her own special energy.
+Dialogue: 0,0:12:42.13,0:12:43.62,Default,CHISAKI,0,0,0,,Or just, like, she's a ditz?
+Dialogue: 0,0:12:43.62,0:12:45.73,Default,MASACHIKA,0,0,0,,Again, I was trying not to say it!
+Dialogue: 0,0:12:45.73,0:12:47.03,Default,CHISAKI,0,0,0,,Sorry again.
+Dialogue: 0,0:12:47.03,0:12:48.28,Default,AYANO,0,0,0,,Sarashina-sama.
+Dialogue: 0,0:12:48.28,0:12:49.50,Default,CHISAKI,0,0,0,,Whoa!
+Dialogue: 0,0:12:49.50,0:12:51.60,Default,AYANO,0,0,0,,Would you like a refill?
+Dialogue: 0,0:12:52.79,0:12:55.79,Default,CHISAKI,0,0,0,,You really snuck up on me.
+Dialogue: 0,0:12:56.66,0:12:59.14,Default,MASACHIKA,0,0,0,,I'm good. I've still got some.
+Dialogue: 0,0:12:59.14,0:13:00.63,Default,AYANO,0,0,0,,Understood.
+Dialogue: 0,0:13:00.92,0:13:03.15,Default,TOYA,0,0,0,,You have a unique way of carrying yourself.
+Dialogue: 0,0:13:03.15,0:13:05.93,Default,TOYA,0,0,0,,Did you pick that up serving as Suou's aide?
+Dialogue: 0,0:13:05.93,0:13:08.67,Default,AYANO,0,0,0,,Yes. My grandparents taught me.
+Dialogue: 0,0:13:08.67,0:13:09.51,Default,TOYA,0,0,0,,Oh?
+Dialogue: 0,0:13:09.51,0:13:13.06,Default,AYANO,0,0,0,,Her grandparents used to serve Yuki's family.
+Dialogue: 0,0:13:13.06,0:13:15.63,Default,TOYA,0,0,0,,Wow. Your parents, too?
+Dialogue: 0,0:13:15.63,0:13:18.27,Default,AYANO,0,0,0,,No, my parents are office workers.
+Dialogue: 0,0:13:18.54,0:13:20.30,Default,CHISAKI,0,0,0,,Wait, what?
+Dialogue: 0,0:13:20.30,0:13:21.13,Default,AYANO,0,0,0,,Yes.
+Dialogue: 0,0:13:21.13,0:13:23.86,Default,AYANO,0,0,0,,I chose this because I admired my grandparents.
+Dialogue: 0,0:13:23.86,0:13:26.53,Default,AYANO,0,0,0,,It isn't the family business or anything.
+Dialogue: 0,0:13:26.78,0:13:30.70,Default,CHISAKI,0,0,0,,Huh... How long have you been doing this?
+Dialogue: 0,0:13:30.70,0:13:34.74,Default,AYANO,0,0,0,,There was no clear start date.
+Dialogue: 0,0:13:34.74,0:13:39.48,Default,AYANO,0,0,0,,But I believe I decided to follow \Nthis path back in second grade.
+Dialogue: 0,0:13:39.48,0:13:40.82,Default,CHISAKI,0,0,0,,Early, much?
+Dialogue: 0,0:13:40.82,0:13:43.65,Default,AYANO,0,0,0,,That's how much I admired my grandparents.
+Dialogue: 0,0:13:43.65,0:13:45.38,Default,AYANO,0,0,0,,And also, it was Masa—
+Dialogue: 0,0:13:46.46,0:13:50.80,Default,AYANO,0,0,0,,massively clear to me that Yuki-sama \Nwas someone worth serving.
+Dialogue: 0,0:13:52.41,0:13:54.31,Default,MASACHIKA,0,0,0,,Ayano, a moment.
+Dialogue: 0,0:13:54.84,0:13:58.46,Default,AYANO,0,0,0,,I apologize for my slip-up, Masachika-sama.
+Dialogue: 0,0:13:58.46,0:14:01.57,Default,MASACHIKA,0,0,0,,Uh, it's fine as long as \Nit doesn't happen again.
+Dialogue: 0,0:14:01.84,0:14:03.07,Default,MASACHIKA,0,0,0,,But...
+Dialogue: 0,0:14:04.07,0:14:05.69,sign_generic,SIGN,0,0,0,,{\fnGeorgia\b1\pos(147,128)\3c&HF4F8F4&\fs25\c&H080E10&}Knightly
+Dialogue: 0,0:14:04.57,0:14:05.69,sign_generic,SIGN,0,0,0,,{\fnGeorgia\b1\3c&HF4F8F4&\fs25\c&H060A0C&\pos(508,128)}Idolization
+Dialogue: 0,0:14:05.69,0:14:08.12,italics,MASACHIKA,0,0,0,,Her eyes are filled with love and respect!
+Dialogue: 0,0:14:08.12,0:14:10.91,italics,MASACHIKA,0,0,0,,Why? Is she not mad at me anymore?
+Dialogue: 0,0:14:10.91,0:14:13.45,italics,MASACHIKA,0,0,0,,What the heck did I do \Nto score points with her?!
+Dialogue: 0,0:14:13.74,0:14:17.72,Default,TOYA,0,0,0,,Is not making a sound \Na required skill for an attendant?
+Dialogue: 0,0:14:17.72,0:14:21.30,Default,AYANO,0,0,0,,Indeed. My grandparents drilled it into me.
+Dialogue: 0,0:14:21.30,0:14:25.46,Default,AYANO,0,0,0,,They said a servant must never stand out.
+Dialogue: 0,0:14:37.94,0:14:41.52,Default,MASHA,0,0,0,,Ayano-chan, can I get a refill too?
+Dialogue: 0,0:14:41.52,0:14:44.11,Default,AYANO,0,0,0,,I apologize for not noticing, Mariya-sama.
+Dialogue: 0,0:14:45.05,0:14:48.03,Default,MASHA,0,0,0,,Alya-chan told me to shut up and go away.
+Dialogue: 0,0:14:50.99,0:14:54.93,Default,TOYA,0,0,0,,I'm starting to get worried. \NThey won't get into a fight, right?
+Dialogue: 0,0:14:54.93,0:14:56.62,Default,MASACHIKA,0,0,0,,Don't worry about it.
+Dialogue: 0,0:14:56.97,0:14:59.75,Default,MASACHIKA,0,0,0,,It looks like Alya's enjoying herself.
+Dialogue: 0,0:14:59.75,0:15:02.29,Default,MASHA,0,0,0,,She's really letting her hair down for once.
+Dialogue: 0,0:15:02.29,0:15:03.66,Default,MASACHIKA,0,0,0,,I know, right?
+Dialogue: 0,0:15:03.66,0:15:05.34,Default,MASHA,0,0,0,,Oh, you can tell?
+Dialogue: 0,0:15:05.34,0:15:06.65,Default,MASACHIKA,0,0,0,,I sure can.
+Dialogue: 0,0:15:08.29,0:15:09.89,Default,TOYA,0,0,0,,She's {\i1}enjoying{\i0} herself?
+Dialogue: 0,0:15:09.89,0:15:11.01,Default,CHISAKI,0,0,0,,Looking like that?
+Dialogue: 0,0:15:13.26,0:15:15.53,Default,MASHA,0,0,0,,Oh, are we out?
+Dialogue: 0,0:15:15.53,0:15:17.47,Default,MASHA,0,0,0,,I should go get more.
+Dialogue: 0,0:15:17.47,0:15:19.31,Default,AYANO,0,0,0,,I'll go.
+Dialogue: 0,0:15:19.31,0:15:23.38,Default,MASHA,0,0,0,,Don't worry about it. \NYou're the heroine of today's show.
+Dialogue: 0,0:15:24.57,0:15:28.28,Default,MASACHIKA,0,0,0,,This welcome party is for the two of us.
+Dialogue: 0,0:15:28.28,0:15:30.82,Default,MASACHIKA,0,0,0,,As the girl, I guess \Nthat makes you the heroine.
+Dialogue: 0,0:15:30.82,0:15:32.70,Default,MASHA,0,0,0,,Exactly.
+Dialogue: 0,0:15:32.70,0:15:35.81,Default,MASHA,0,0,0,,Would you lead the way, hero?
+Dialogue: 0,0:15:35.81,0:15:36.87,Default,MASACHIKA,0,0,0,,Why am I not exempt?!
+Dialogue: 0,0:15:36.87,0:15:38.62,sign_generic,SIGN,0,0,0,,{\fnComic Sans MS\b1\fs23\bord0\frx2\fry14\pos(69,193)\c&H2C3038&\frz351}New Student \NCouncil Members\NWelcome Party
+Dialogue: 0,0:15:40.04,0:15:42.57,Default,MASACHIKA,0,0,0,,We're going on a drink run. What do you want?
+Dialogue: 0,0:15:42.57,0:15:44.83,Default,YUKI,0,0,0,,I'll have a café au lait.
+Dialogue: 0,0:15:44.83,0:15:47.63,Default,YUKI,0,0,0,,The brown one, not the white.
+Dialogue: 0,0:15:47.63,0:15:49.26,Default,ALYA,0,0,0,,Oshiruko, please.
+Dialogue: 0,0:15:49.26,0:15:51.02,Default,TOYA,0,0,0,,Witsuya Cider for me.
+Dialogue: 0,0:15:51.02,0:15:53.51,Default,CHISAKI,0,0,0,,Cola—or actually, ginger ale.
+Dialogue: 0,0:15:53.86,0:15:55.76,Default,AYANO,0,0,0,,I'm fine with water.
+Dialogue: 0,0:15:55.76,0:15:58.77,Default,MASHA,0,0,0,,Er, I'll have some lemon tea.
+Dialogue: 0,0:15:58.77,0:16:02.56,Default,MASACHIKA,0,0,0,,You didn't have to say. You're coming with me.
+Dialogue: 0,0:16:02.56,0:16:04.27,Default,MASHA,0,0,0,,Oh, right you are.
+Dialogue: 0,0:16:04.61,0:16:08.53,Default,MASACHIKA,0,0,0,,Uh, so Witsuya Cider, ginger ale, lemon tea...
+Dialogue: 0,0:16:08.53,0:16:11.39,Default,MASACHIKA,0,0,0,,the brown café au lait, oshiruko, and water.
+Dialogue: 0,0:16:11.39,0:16:12.53,Default,MASACHIKA,0,0,0,,Gotcha.
+Dialogue: 0,0:16:19.24,0:16:22.65,Default,MASHA,0,0,0,,Thank you again, Kuze-kun.
+Dialogue: 0,0:16:22.65,0:16:24.59,Default,MASACHIKA,0,0,0,,Where did that come from? For what?
+Dialogue: 0,0:16:24.59,0:16:28.80,Default,MASHA,0,0,0,,For offering to run with Alya-chan.
+Dialogue: 0,0:16:29.24,0:16:32.80,Default,MASHA,0,0,0,,I'm sure she was delighted.
+Dialogue: 0,0:16:33.10,0:16:36.93,Default,MASACHIKA,0,0,0,,Maybe, but it's not something \Nyou need to thank me for.
+Dialogue: 0,0:16:37.35,0:16:40.89,Default,MASHA,0,0,0,,You think? I very much disagree.
+Dialogue: 0,0:16:40.89,0:16:46.69,Default,MASHA,0,0,0,,Alya-chan has never had anybody to lean on, \Nso I'm glad you're there for her now.
+Dialogue: 0,0:16:47.32,0:16:48.65,Default,MASACHIKA,0,0,0,,Okay...?
+Dialogue: 0,0:16:50.42,0:16:51.69,Default,MASACHIKA,0,0,0,,Wait...
+Dialogue: 0,0:16:51.97,0:16:52.73,Default,MASHA,0,0,0,,Hmm?
+Dialogue: 0,0:16:52.73,0:16:53.61,Default,MASACHIKA,0,0,0,,I just had a thought.
+Dialogue: 0,0:16:54.27,0:17:00.51,Default,MASACHIKA,0,0,0,,Are you deliberately hiding \Nyour responsible side from Alya?
+Dialogue: 0,0:17:05.33,0:17:08.92,Default,MASHA,0,0,0,,You see, I don't want to compete with her.
+Dialogue: 0,0:17:11.25,0:17:16.11,Default,MASHA,0,0,0,,She's a real hard worker, always going \Nfull-throttle in everything she does.
+Dialogue: 0,0:17:16.90,0:17:20.87,Default,MASHA,0,0,0,,And I love her for that.
+Dialogue: 0,0:17:39.53,0:17:41.03,sign_generic,SIGN,0,0,0,,{\pos(321,310.727)\bord1.4\3c&H202423&\c&HE5F0EB&}What are you doing?
+Dialogue: 0,0:17:42.38,0:17:45.50,Default,MASACHIKA,0,0,0,,So you're playing the role of her \Ncounterpart, a happy-go-lucky older sis?
+Dialogue: 0,0:17:45.50,0:17:47.42,Default,MASHA,0,0,0,,I'm not exactly "playing" anything.
+Dialogue: 0,0:17:47.97,0:17:51.38,Default,MASHA,0,0,0,,It's just, living life with the dial \Nconstantly turned to 11 can wear you out.
+Dialogue: 0,0:17:51.70,0:17:53.85,Default,MASHA,0,0,0,,We all need to relax a little.
+Dialogue: 0,0:17:54.47,0:18:00.39,Default,MASHA,0,0,0,,Though, I won't deny that I do try \Nto be extra lax around Alya-chan.
+Dialogue: 0,0:18:05.05,0:18:08.39,Default,MASHA,0,0,0,,I don't want her to feel isolated.
+Dialogue: 0,0:18:10.59,0:18:15.07,Default,MASHA,0,0,0,,Sister relationships are complicated. \NAll sibling relationships are, actually.
+Dialogue: 0,0:18:15.63,0:18:18.49,Default,MASHA,0,0,0,,We're the closest people \Nin the world to one another,
+Dialogue: 0,0:18:18.49,0:18:22.18,Default,MASHA,0,0,0,,and that forces us to compare and compete.
+Dialogue: 0,0:18:22.99,0:18:25.79,italics,MASACHIKA,0,0,0,,Yeah, I'm painfully aware of that.
+Dialogue: 0,0:18:26.70,0:18:29.92,italics,MASACHIKA,0,0,0,,I only get away with \Nnot feeling inferior to Yuki
+Dialogue: 0,0:18:30.38,0:18:35.55,italics,MASACHIKA,0,0,0,,because she has no qualms in showing \Nher love and admiration for me.
+Dialogue: 0,0:18:35.55,0:18:37.05,sign_generic,SIGN,0,0,0,,{\c&H8FB7CE&\3c&HDCF7FF&\fs16\frz6.465\pos(325,160)}Café Coffee\NMilk au Lait
+Dialogue: 0,0:18:37.41,0:18:43.68,italics,MASACHIKA,0,0,0,,Is she putting on a crazy otaku persona \Non purpose to act like a stupid little sis?
+Dialogue: 0,0:18:44.31,0:18:47.31,italics,MASACHIKA,0,0,0,,Nah, that's definitely \Njust who she is deep down.
+Dialogue: 0,0:18:47.93,0:18:50.86,Default,MASACHIKA,0,0,0,,I see you're a caring older sister, Masha-san.
+Dialogue: 0,0:18:51.94,0:18:53.22,Default,MASHA,0,0,0,,Aren't I?
+Dialogue: 0,0:18:53.22,0:18:57.07,Default,MASHA,0,0,0,,I actually am a great big sis, \Nbelieve it or not.
+Dialogue: 0,0:18:57.63,0:19:00.82,Default,MASHA,0,0,0,,But keep it a secret from Alya-chan, okay?
+Dialogue: 0,0:19:00.82,0:19:02.48,Default,MASACHIKA,0,0,0,,Why would I tell her?
+Dialogue: 0,0:19:02.48,0:19:04.61,Default,MASACHIKA,0,0,0,,Even if I did, she probably \Nwouldn't believe it.
+Dialogue: 0,0:19:04.61,0:19:07.90,Default,MASACHIKA,0,0,0,,She'd have to be convinced that her sister's \Nsecretly a mature, responsible person.
+Dialogue: 0,0:19:07.90,0:19:13.04,Default,MASHA,0,0,0,,Please. You act like you're \Nnot hiding a responsible side yourself.
+Dialogue: 0,0:19:15.33,0:19:19.13,Default,MASACHIKA,0,0,0,,Unlike you, I don't have a good reason for it.
+Dialogue: 0,0:19:19.13,0:19:21.55,Default,MASACHIKA,0,0,0,,I'm just looking out for myself.
+Dialogue: 0,0:19:22.81,0:19:29.40,Default,MASACHIKA,0,0,0,,I just play the slacker so I can take it easy \Nand not have people depending on me.
+Dialogue: 0,0:19:29.40,0:19:30.81,Default,MASACHIKA,0,0,0,,Don't pay it any mind.
+Dialogue: 0,0:19:36.44,0:19:38.12,Default,MASHA,0,0,0,,There, there.
+Dialogue: 0,0:19:38.44,0:19:40.70,Default,MASHA,0,0,0,,Good job hanging in there.
+Dialogue: 0,0:19:40.70,0:19:41.78,Default,MASHA,0,0,0,,It'll all be okay.
+Dialogue: 0,0:19:42.18,0:19:44.11,Default,MASHA,0,0,0,,You'll be just fine, Kuze-kun.
+Dialogue: 0,0:19:44.80,0:19:47.02,Default,MASACHIKA,0,0,0,,I'm not really...
+Dialogue: 0,0:19:47.02,0:19:50.24,Default,MASHA,0,0,0,,Good boy. A good boy needs praise.
+Dialogue: 0,0:19:52.77,0:19:54.71,italics,MASACHIKA,0,0,0,,I don't get it.
+Dialogue: 0,0:19:54.71,0:19:59.83,italics,MASACHIKA,0,0,0,,Why is it so easy for her \Nto break through my shell?
+Dialogue: 0,0:20:03.98,0:20:05.66,Default,SAYAKA,0,0,0,,Kujo Alisa-san?
+Dialogue: 0,0:20:10.59,0:20:12.44,Default,SAYAKA,0,0,0,,Sorry, I know this is abrupt.
+Dialogue: 0,0:20:12.44,0:20:14.85,Default,SAYAKA,0,0,0,,I'm Taniyama Sayaka from Class F.
+Dialogue: 0,0:20:15.31,0:20:18.10,Default,SAYAKA,0,0,0,,Can we talk?
+Dialogue: 0,0:20:20.34,0:20:21.99,italics,ALYA,0,0,0,,Taniyama Sayaka?
+Dialogue: 0,0:20:22.29,0:20:26.67,italics,ALYA,0,0,0,,She's the one who was Yuki-san's \Nelection opponent back in middle school, right?
+Dialogue: 0,0:20:26.67,0:20:27.83,Default,SAYAKA,0,0,0,,Kujo-san.
+Dialogue: 0,0:20:28.19,0:20:33.20,Default,SAYAKA,0,0,0,,Is it true that you're going to run \Nwith Kuze-san in the presidential election?
+Dialogue: 0,0:20:33.20,0:20:34.96,Default,ALYA,0,0,0,,It is. What about it?
+Dialogue: 0,0:20:36.91,0:20:41.71,Default,SAYAKA,0,0,0,,That's a pretty classless move. \NAren't you ashamed of yourself?
+Dialogue: 0,0:20:41.71,0:20:42.72,Default,ALYA,0,0,0,,Huh?
+Dialogue: 0,0:20:42.99,0:20:47.49,Default,SAYAKA,0,0,0,,You stole the running mate \NSuou-san had set her eyes on.
+Dialogue: 0,0:20:47.49,0:20:48.84,Default,SAYAKA,0,0,0,,Was it to spite her?
+Dialogue: 0,0:20:48.84,0:20:50.22,Default,ALYA,0,0,0,,Wh-Wha?
+Dialogue: 0,0:20:50.22,0:20:52.18,Default,ALYA,0,0,0,,What are you implying?
+Dialogue: 0,0:20:52.18,0:20:56.67,Default,ALYA,0,0,0,,That I did something underhanded \Nto get Kuze-kun to back me?
+Dialogue: 0,0:20:56.67,0:20:57.98,Default,SAYAKA,0,0,0,,Am I wrong?
+Dialogue: 0,0:20:58.59,0:21:01.25,Default,SAYAKA,0,0,0,,I don't know how you did it, and I don't care.
+Dialogue: 0,0:21:01.25,0:21:04.20,Default,SAYAKA,0,0,0,,But you picked that massive slacker \Nto be your running mate,
+Dialogue: 0,0:21:04.20,0:21:07.26,Default,SAYAKA,0,0,0,,and I can only assume \Nyou did it to spite Suou-san.
+Dialogue: 0,0:21:07.26,0:21:08.46,Default,ALYA,0,0,0,,No!
+Dialogue: 0,0:21:08.46,0:21:10.52,Default,MASACHIKA,0,0,0,,Alya? And Taniyama?!
+Dialogue: 0,0:21:13.47,0:21:14.59,Default,MASACHIKA,0,0,0,,What's the matter?
+Dialogue: 0,0:21:14.59,0:21:16.12,Default,ALYA,0,0,0,,Don't ask me.
+Dialogue: 0,0:21:16.12,0:21:21.43,Default,ALYA,0,0,0,,She's accusing me of pulling some \Nshady crap to steal you from Yuki-san.
+Dialogue: 0,0:21:21.43,0:21:22.71,Default,MASACHIKA,0,0,0,,The heck?
+Dialogue: 0,0:21:23.24,0:21:25.01,Default,MASACHIKA,0,0,0,,Uh, Taniyama?
+Dialogue: 0,0:21:25.01,0:21:27.58,Default,MASACHIKA,0,0,0,,I don't know what you heard \Nor who you heard it from.
+Dialogue: 0,0:21:27.58,0:21:30.97,Default,MASACHIKA,0,0,0,,But I made the decision \Nto run with Alya myself.
+Dialogue: 0,0:21:30.97,0:21:32.94,Default,SAYAKA,0,0,0,,I find that hard to believe.
+Dialogue: 0,0:21:33.43,0:21:35.63,Default,SAYAKA,0,0,0,,You'd been going through \Nthe motions for so long.
+Dialogue: 0,0:21:35.63,0:21:39.48,Default,SAYAKA,0,0,0,,What gave you the motivation to team up \Nwith this transfer student here?
+Dialogue: 0,0:21:39.48,0:21:41.70,Default,MASACHIKA,0,0,0,,"Going through the motions"?
+Dialogue: 0,0:21:41.70,0:21:43.79,Default,MASACHIKA,0,0,0,,I guess you're not exactly wrong.
+Dialogue: 0,0:21:44.41,0:21:49.61,Default,MASACHIKA,0,0,0,,Either way, Yuki's accepted my decision. \NWhatever you think happened, you're wrong.
+Dialogue: 0,0:21:49.61,0:21:51.69,Default,MASACHIKA,0,0,0,,If you said something untoward to Alya,
+Dialogue: 0,0:21:51.69,0:21:53.07,Default,MASACHIKA,0,0,0,,could you please apologize?
+Dialogue: 0,0:21:55.25,0:22:00.50,Default,SAYAKA,0,0,0,,I see now. So you're the one in the wrong here.
+Dialogue: 0,0:22:06.01,0:22:09.97,Default,SAYAKA,0,0,0,,Kuze-san. I challenge you to student congress.
+Dialogue: 0,0:22:09.97,0:22:10.97,Default,MASACHIKA,0,0,0,,What?
+Dialogue: 0,0:22:10.97,0:22:13.45,Default,GIRL1,0,0,0,,Did you hear that? \NWe're getting a student congress.
+Dialogue: 0,0:22:13.45,0:22:14.31,Default,BOY,0,0,0,,For real?
+Dialogue: 0,0:22:14.85,0:22:15.94,Default,GIRL2,0,0,0,,What's happening?
+Dialogue: 0,0:22:15.94,0:22:18.69,Default,GIRL1,0,0,0,,Two presidential candidates \Nare gonna have a student congress!
+Dialogue: 0,0:22:18.69,0:22:22.27,Default,MASACHIKA,0,0,0,,Wait, hold on a second. Are you serious?
+Dialogue: 0,0:22:22.27,0:22:24.83,Default,SAYAKA,0,0,0,,Why would I joke about this?
+Dialogue: 0,0:22:24.83,0:22:28.20,Default,SAYAKA,0,0,0,,Someone like you has no place \Nin the presidential election—
+Dialogue: 0,0:22:28.50,0:22:31.95,Default,SAYAKA,0,0,0,,no, on the student council in general.
+Dialogue: 0,0:22:31.95,0:22:33.42,Default,ALYA,0,0,0,,Hold it right there.
+Dialogue: 0,0:22:33.42,0:22:37.48,Default,ALYA,0,0,0,,I've heard that a student congress between \Ncandidates can establish a pecking order.
+Dialogue: 0,0:22:37.48,0:22:40.79,Default,ALYA,0,0,0,,In that case, I need to be \Npart of this conversation.
+Dialogue: 0,0:22:41.23,0:22:45.67,Default,SAYAKA,0,0,0,,Stay out of this. You're just a puppet \Nwith good grades and nothing else.
+Dialogue: 0,0:22:47.12,0:22:49.68,Default,ALYA,0,0,0,,We're running as a team \Nin the presidential election!
+Dialogue: 0,0:22:49.68,0:22:54.06,Default,ALYA,0,0,0,,If you, as a candidate yourself, \Nwant to take down Kuze-kun,
+Dialogue: 0,0:22:54.51,0:22:56.36,Default,ALYA,0,0,0,,you'll have to go through me!
+Dialogue: 0,0:22:57.23,0:23:00.19,Default,SAYAKA,0,0,0,,And here I was trying to \Nspare you the embarrassment.
+Dialogue: 0,0:23:00.71,0:23:03.94,Default,SAYAKA,0,0,0,,Very well. I'll take you both down \Nin one fell swoop.
+Dialogue: 0,0:23:04.82,0:23:09.62,Default,SAYAKA,0,0,0,,People like you two don't deserve \Nto run for president.
